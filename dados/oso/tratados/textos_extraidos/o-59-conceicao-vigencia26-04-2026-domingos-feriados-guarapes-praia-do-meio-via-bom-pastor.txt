@@ -1,0 +1,106 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 11:39:54
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0066/2026
+LINHA O-59 - Domingo/Feriado (Convencional)
+Empresa EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO Tempo de Viagem 110 min
+Linha - Nº e Nome O-59 - GUARAPES/PRAIA DO MEIO, VIA BOM PASTOR Vel. Média 19,31 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 3 Nº de Paradas 0
+Nº de Viagens 18,00 Data da Permissão 09/01/1991
+Extensão 35,40 Substitui a OS 0006/2024
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA DA LAGOA NOVA (Terminal) AV. PRESIDENTE CAFÉ FILHO
+RUA NOVO GUARAPES AV. 25 DE DEZEMBRO
+AV. PRESIDENTE RANIERI MAZZILI RUA TULIO FERNANDES
+AV. CAPITÃO-MOR GOUVEIA RUA RODRIGUES DIAS
+AV. BOM PASTOR RUA PEDRO AFONSO
+AV. ANTÔNIO BASÍLIO RUA BELO HORIZONTE
+RUA DOUTOR MANOEL MIRANDA RUA FERREIRA ITAJUBA
+RUA DA CONCORDIA RUA SÃO JOÃO DE DEUS
+RUA DOS PAIATIS AV. DUQUE DE CAXIAS
+RUA PRESIDENTE LEÃO VELOSO PRAÇA AUGUSTO SEVERO
+AV. CORONEL ESTEVAM AV. CÂMARA CASCUDO
+RUA CORONEL JOSÉ BERNARDO RUA PADRE JOÃO MANOEL
+AV. RIO BRANCO RUA PADRE PINTO
+RUA GENERAL GLICÉRIO RUA MERMOZ
+RUA ALMINO AFONSO RUA CORONEL JOSÉ BERNARDO
+RUA PEREIRA SIMÕES RUA FONSECA E SILVA
+RUA DO AREAL RUA AMARO BARRETO
+RUA PEDRO AFONSO RUA DOUTOR MANOEL MIRANDA
+RUA RODRIGUES DIAS RUA PRESIDENTE LEÃO VELOSO
+RUA TULIO FERNANDES RUA DOS PAIATIS
+PRAÇA DOS HEROIS RUA DA CONCORDIA
+AV. PRESIDENTE CAFÉ FILHO RUA DOUTOR MANOEL MIRANDA
+AV. ANTÔNIO BASÍLIO
+AV. BOM PASTOR
+AV. CAPITÃO-MOR GOUVEIA
+AV. PRESIDENTE RANIERI MAZZILI
+RUA NOVO GUARAPES
+RUA DA LAGOA SECA
+RUA CANDELÁRIA
+RUA DA LAGOA NOVA (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 17,70 17,70 35,40
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 17,70 17,70 35,40
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=d0d1ffac5cb4e34b8873e823f58dea37&param2=15484103&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 11:40:48 fls. 92
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=1c0ca02790811411b6ae555e714d4fd1&param2=15484133&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:34 fls. 92
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 11:39:54
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0066/2026
+LINHA O-59 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 05:00 0 min min
+2 A2 06:00 60 min
+3 A3 07:00 60 min
+4 A2 07:55 55 min
+5 A1 08:30 35 min
+6 A3 09:30 60 min
+7 A1 10:30 60 min
+8 A2 11:30 60 min
+9 A3 12:30 60 min
+10 B1 13:10 40 min
+11 B2 14:00 50 min
+12 B3 14:50 50 min
+13 B1 15:30 40 min
+14 B2 16:30 60 min
+15 B3 17:30 60 min
+16 B1 18:30 60 min
+17 B2 19:30 60 min
+18 B3 20:30 60 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+Natal(RN), sábado, 25 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=d0d1ffac5cb4e34b8873e823f58dea37&param2=15484103&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 11:40:48 fls. 93
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=1c0ca02790811411b6ae555e714d4fd1&param2=15484133&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:34 fls. 93

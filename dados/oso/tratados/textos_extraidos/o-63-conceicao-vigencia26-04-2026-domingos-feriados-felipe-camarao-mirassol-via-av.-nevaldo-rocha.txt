@@ -1,0 +1,112 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+30/04/2026 às 14:27:30
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0073/2026
+LINHA O-63 - Domingo/Feriado (Convencional)
+Empresa EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO Tempo de Viagem 110 min
+Linha - Nº e Nome O-63 - FELIPE CAMARÃO/MIRASSOL, VIA AV. NEVALDO ROCH Vel. Média 18,60 km/h
+Início Vigência 03/05/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 24,00 Data da Permissão 27/05/1991
+Extensão 34,10 Substitui a OS 0068/2026
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA MARISTELA ALVES (Terminal) AV. ENGENHEIRO ROBERTO FREIRE
+RUA RAINHA DO MAR BR 101
+RUA ITAMAR MACIEL VIADUTO DA UFRN
+RUA IDOMAR BR 101
+RUA PROFESSOR COUTINHO AV. SENADOR SALGADO FILHO
+RUA PROFESSOR ANTÔNIO TRIGUEIRO AV. ANTÔNIO BASÍLIO
+RUA MARISTELA ALVES AV. XAVIER DA SILVEIRA
+AV NOSSA SENHORA DO LIVRAMENTO AV. NEVALDO ROCHA
+AV. NOSSA SENHORA DO ROSÁRIO AV. CORONEL ESTEVAM
+RUA SEM NOME RUA BARAÚNA
+AV NOSSA SENHORA DO LIVRAMENTO RUA DOS CAICÓS
+RUA SANTA MARIA MADALENA AV. ANTÔNIO BASÍLIO
+AV. NOSSA SENHORA DO ROSÁRIO AV. CORONEL ESTEVAM
+RUA MONTE CALVO AV. CAPITÃO-MOR GOUVEIA
+AV. SOLANGE NUNES DO NASCIMENTO AV. RIO GRANDE DO SUL
+AV. RIO GRANDE DO NORTE AV. CEARÁ
+AV. PARAÍBA AV. RIO GRANDE DO NORTE
+RUA AREIAS AV. SOLANGE NUNES DO NASCIMENTO
+RUA CAMPINA GRANDE RUA MONTE CALVO
+RUA CAJAZEIRAS RUA OESTE
+AV. CAPITÃO-MOR GOUVEIA RUA SANTA CRISTINA
+AV. CORONEL ESTEVAM RUA PEDRINHO BEZERRA
+AV. NEVALDO ROCHA AV NOSSA SENHORA DO LIVRAMENTO
+AV. SENADOR SALGADO FILHO RUA MARISTELA ALVES
+BR 101 RUA PROFESSOR ANTÔNIO TRIGUEIRO
+VIADUTO DA ARENA DAS DUNAS RUA PROFESSOR COUTINHO
+BR 101 RUA IDOMAR
+VIADUTO DE PONTA NEGRA RUA ITAMAR MACIEL
+AV. ENGENHEIRO ROBERTO FREIRE RUA MIRASSOL
+RUA MARISTELA ALVES (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 17,05 17,05 34,10
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 17,05 17,05 34,10
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=6d1d9082cab3cfca63ee130e9dc447bd&param2=15544873&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:29:45 fls. 109
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=8e0e154148ba490afb5cff8a14a51b24&param2=15545967&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:54 fls. 109
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+30/04/2026 às 14:27:30
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0073/2026
+LINHA O-63 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 05:00 0 min min
+2 A2 05:30 30 min
+3 A3 06:00 30 min
+4 A4 06:40 40 min
+5 A2 07:25 45 min
+6 A1 08:05 40 min
+7 A4 08:45 40 min
+8 A3 09:25 40 min
+9 A1 10:05 40 min
+10 A2 10:45 40 min
+11 A3 11:25 40 min
+12 A4 12:05 40 min
+13 A2 12:45 40 min
+14 B1 13:25 40 min
+15 B3 14:05 40 min
+16 B4 14:45 40 min
+17 B1 15:25 40 min
+18 B3 16:05 40 min
+19 B4 16:45 40 min
+20 B2 17:45 60 min
+21 B1 18:45 60 min
+22 B3 19:45 60 min
+23 B4 20:45 60 min
+24 B2 21:45 60 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 03/05/2026
+Natal(RN), quinta-feira, 30 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=6d1d9082cab3cfca63ee130e9dc447bd&param2=15544873&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:29:45 fls. 110
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=8e0e154148ba490afb5cff8a14a51b24&param2=15545967&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:54 fls. 110

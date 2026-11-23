@@ -1,0 +1,136 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+30/04/2026 às 14:26:29
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0074/2026
+LINHA N-73 - Domingo/Feriado (Convencional)
+Empresa TRANSNACIONAL TRANSPORTES URBANOS LTDA. Tempo de Viagem 120 min
+Linha - Nº e Nome N-73 - SANTARÉM/PONTA NEGRA, VIA AV. NEVALDO ROCHA Vel. Média 23,40 km/h
+Início Vigência 03/05/2026 Km Morta 0,00
+Frota 20 Nº de Paradas 0
+Nº de Viagens 60,00 Data da Permissão 13/01/1992
+Extensão 46,80 Substitui a OS 0104/2023
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA ILHA DE MARAJÓ (Terminal) AV. ENGENHEIRO ROBERTO FREIRE
+RUA BAIA DE SÃO JOSÉ BR 101
+AV. RIO DOCE VIADUTO DA UFRN
+AV. ITAPETINGA BR 101
+AV. DOUTOR JOÃO MEDEIROS FILHO AV. SENADOR SALGADO FILHO
+TÚNEL ULISSES DE GÓIS AV. ANTÔNIO BASÍLIO
+AV BACHAREL TOMAZ LANDIM AV. XAVIER DA SILVEIRA
+PONTE DE IGAPÓ AV. NEVALDO ROCHA
+AV. FELIZARDO FIRMINO MOURA VIADUTO DA URBANA
+RUA JANDIRA RUA DOUTOR MÁRIO NEGÓCIO
+RUA DOUTOR MÁRIO NEGÓCIO AV. FELIZARDO FIRMINO MOURA
+VIADUTO DA URBANA PONTE DE IGAPÓ
+AV. NEVALDO ROCHA AV BACHAREL TOMAZ LANDIM
+AV. SENADOR SALGADO FILHO AV. DOUTOR JOÃO MEDEIROS FILHO
+BR 101 AV. ITAPETINGA
+VIADUTO DA ARENA DAS DUNAS AV. RIO DOCE
+BR 101 RUA CABO SÃO TOMÉ
+VIADUTO DE PONTA NEGRA RUA ILHA DE MARAJÓ (Terminal)
+AV. ENGENHEIRO ROBERTO FREIRE
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 23,40 23,40 46,80
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 23,40 23,40 46,80
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=9fded2024be7c8f4e4aa8e20771d7746&param2=15544865&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:29:04 fls. 105
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=8fd3a9e482f6a502fc21004a188764a1&param2=15545966&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:52 fls. 105
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+30/04/2026 às 14:26:29
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0074/2026
+LINHA N-73 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+41 A15 16:29 14 min min
+1 A1 04:30 110 min min
+42 A12 16:43 14 min
+2 A2 04:50 20 min
+43 A16 16:58 15 min
+3 A3 05:05 15 min
+44 A9 17:13 15 min
+4 A4 05:20 15 min
+45 A17 17:28 15 min
+5 A5 05:35 15 min
+46 A18 17:45 17 min
+6 A6 05:50 15 min
+47 A10 18:05 20 min
+7 A7 06:05 15 min
+48 A19 18:25 20 min
+8 A8 06:20 15 min
+49 A11 18:50 25 min
+9 A1 06:35 15 min
+50 A12 19:15 25 min
+10 A2 06:55 20 min
+51 A13 19:40 25 min
+11 A3 07:15 20 min
+52 A14 20:05 25 min
+12 A4 07:35 20 min
+53 A15 20:30 25 min
+13 A5 07:55 20 min
+54 A20 20:50 20 min
+14 A7 08:20 25 min
+55 A16 21:10 20 min
+15 A8 08:45 25 min
+56 A17 21:30 20 min
+16 A6 09:15 30 min
+57 A18 21:55 25 min
+17 A1 09:45 30 min
+58 A19 22:35 40 min
+18 A2 10:10 25 min
+59 A20 00:40 0 min
+19 A3 10:30 20 min
+60 A20 02:40 120 min
+20 A4 10:50 20 min
+21 A9 11:10 20 min
+22 A5 11:30 20 min
+23 A6 11:50 20 min
+24 A10 12:05 15 min
+25 A7 12:20 15 min
+26 A8 12:40 20 min
+27 A11 13:00 20 min
+28 A12 13:15 15 min
+29 A13 13:30 15 min
+30 A14 13:45 15 min
+31 A15 14:05 20 min
+32 A16 14:25 20 min
+33 A9 14:40 15 min
+34 A17 14:55 15 min
+35 A18 15:10 15 min
+36 A11 15:24 14 min
+37 A10 15:37 13 min
+38 A19 15:50 13 min
+39 A13 16:02 12 min
+40 A14 16:15 13 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 03/05/2026
+Natal(RN), quinta-feira, 30 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=9fded2024be7c8f4e4aa8e20771d7746&param2=15544865&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:29:04 fls. 106
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=8fd3a9e482f6a502fc21004a188764a1&param2=15545966&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:52 fls. 106

@@ -1,0 +1,211 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+05/08/2026 às 13:05:28
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0128/2026
+LINHA N-43 - Domingo/Feriado (Convencional)
+Empresa GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA Tempo de Viagem 110 min
+Linha - Nº e Nome N-43 - NOVA NATAL/MORRO BRANCO, VIA ALECRIM Vel. Média 25,15 km/h
+Início Vigência 09/08/2026 Km Morta 0,00
+Frota 2 Nº de Paradas 0
+Nº de Viagens 10,00 Data da Permissão 21/09/2015
+Extensão 46,10 Substitui a OS 0084/2026
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA APÓSTOLO SIMÃO (Terminal) AV. NEVALDO ROCHA
+RUA TRÊS LAGOAS AV. PRESIDENTE BANDEIRA
+AV. PILOTO CARLOS DEL PRETE AV. CORONEL ESTEVAM
+RUA TIJUANA RUA CORONEL JOSÉ BERNARDO
+AV. DOS CABOCLINHOS AV. RIO BRANCO
+RUA DO FANDANGO RUA GENERAL GLICERIO
+RUA DO PASTORIL AV. DUQUE DE CAXIAS
+AV. DA CHEGANÇA RUA SÃO JOÃO DE DEUS
+AV. DAS CIRANDAS RUA CORONEL FLAMÍNIO
+RUA IGUAPÉ RUA PROFESSOR JOSÉ MELQUÍADES
+AV GUARARAPES VIADUTO DE SANTOS REIS
+AV. TOCANTÍNEA AV. PRESIDENTE CAFÉ FILHO
+AV. RIO DOCE PONTE NEWTON NAVARRO
+AV. ITAPETINGA RUA CONSELHEIRO TRISTÃO
+AV. DOUTOR JOÃO MEDEIROS FILHO VIADUTO DA REDINHA
+PONTE NEWTON NAVARRO AV. DOUTOR JOÃO MEDEIROS FILHO
+AV. PRESIDENTE CAFÉ FILHO AV. ITAPETINGA
+RUA PROFESSOR JOSÉ MELQUÍADES AV. RIO DOCE
+RUA CORONEL FLAMÍNIO AV. TOCANTÍNEA
+RUA SÃO JOÃO DE DEUS AV GUARARAPES
+AV. ENGENHEIRO HIDELBRANDO DE GÓIS RUA IGUAPÉ
+TRAVESSA SÃO PEDRO AV. DAS CIRANDAS
+AV. DUQUE DE CAXIAS AV. DA CHEGANÇA
+PRAÇA AUGUSTO SEVERO RUA DO PASTORIL
+AV. CÂMARA CASCUDO RUA DO FANDANGO
+RUA PADRE JOÃO MANOEL AV. DOS CABOCLINHOS
+RUA PADRE PINTO RUA TIJUANA
+RUA MERMOZ AV. PILOTO CARLOS DEL PRETE
+RUA CORONEL JOSÉ BERNARDO RUA TRÊS LAGOAS
+RUA FONSECA E SILVA RUA APÓSTOLO SIMÃO (Terminal)
+RUA AMARO BARRETO
+AV. PRESIDENTE BANDEIRA
+RUA JAGUARARI
+AV. NEVALDO ROCHA
+LINHA COMPARTILHADA COM A TRANSNACIONAL.
+TOTAL DE VIAGENS DA LINHA: 21
+FROTA DA LINHA: 5 CARROS
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 23,00 23,10 46,10
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 23,00 23,10 46,10
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=d28571651e4749ef0ba9bc9ccc64eaab&param2=16520404&param3=1679859
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20261072900 em 05/08/2026 às 13:11:33 fls. 6
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=22723c18da4c8b3415739f0c0baa7abd&param2=16523005&param3=1679859
+Documento assinado em 05/08/2026 às 14:41:38 fls. 6
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+05/08/2026 às 13:05:28
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0128/2026
+LINHA N-43 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 05:10 0 min min
+2 A1 07:15 125 min
+3 A4 09:30 135 min
+4 A1 10:15 45 min
+5 A4 11:45 90 min
+6 A4 12:25 40 min
+7 B1 14:35 130 min
+8 A4 16:00 85 min
+9 B1 18:00 120 min
+10 B1 20:00 120 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 09/08/2026
+Natal(RN), quarta-feira, 5 de agosto de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=d28571651e4749ef0ba9bc9ccc64eaab&param2=16520404&param3=1679859
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20261072900 em 05/08/2026 às 13:11:33 fls. 7
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=22723c18da4c8b3415739f0c0baa7abd&param2=16523005&param3=1679859
+Documento assinado em 05/08/2026 às 14:41:38 fls. 7
+
+==================== PÁGINA 3 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+05/08/2026 às 13:06:26
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0129/2026
+LINHA N-43 - Domingo/Feriado (Convencional)
+Empresa TRANSNACIONAL TRANSPORTES URBANOS LTDA. Tempo de Viagem 110 min
+Linha - Nº e Nome N-43 - NOVA NATAL/MORRO BRANCO, VIA ALECRIM Vel. Média 25,15 km/h
+Início Vigência 09/08/2026 Km Morta 0,00
+Frota 2 Nº de Paradas 0
+Nº de Viagens 11,00 Data da Permissão 21/09/2015
+Extensão 46,10 Substitui a OS 0085/2026
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA APÓSTOLO SIMÃO (Terminal) AV. NEVALDO ROCHA
+RUA TRÊS LAGOAS AV. PRESIDENTE BANDEIRA
+AV. PILOTO CARLOS DEL PRETE AV. CORONEL ESTEVAM
+RUA TIJUANA RUA CORONEL JOSÉ BERNARDO
+AV. DOS CABOCLINHOS AV. RIO BRANCO
+RUA DO FANDANGO RUA GENERAL GLICERIO
+RUA DO PASTORIL AV. DUQUE DE CAXIAS
+AV. DA CHEGANÇA RUA SÃO JOÃO DE DEUS
+AV. DAS CIRANDAS RUA CORONEL FLAMÍNIO
+RUA IGUAPÉ RUA PROFESSOR JOSÉ MELQUÍADES
+AV GUARARAPES VIADUTO DE SANTOS REIS
+AV. TOCANTÍNEA AV. PRESIDENTE CAFÉ FILHO
+AV. RIO DOCE PONTE NEWTON NAVARRO
+AV. ITAPETINGA RUA CONSELHEIRO TRISTÃO
+AV. DOUTOR JOÃO MEDEIROS FILHO VIADUTO DA REDINHA
+PONTE NEWTON NAVARRO AV. DOUTOR JOÃO MEDEIROS FILHO
+AV. PRESIDENTE CAFÉ FILHO AV. ITAPETINGA
+RUA PROFESSOR JOSÉ MELQUÍADES AV. RIO DOCE
+RUA CORONEL FLAMÍNIO AV. TOCANTÍNEA
+RUA SÃO JOÃO DE DEUS AV GUARARAPES
+AV. ENGENHEIRO HIDELBRANDO DE GÓIS RUA IGUAPÉ
+TRAVESSA SÃO PEDRO AV. DAS CIRANDAS
+AV. DUQUE DE CAXIAS AV. DA CHEGANÇA
+PRAÇA AUGUSTO SEVERO RUA DO PASTORIL
+AV. CÂMARA CASCUDO RUA DO FANDANGO
+RUA PADRE JOÃO MANOEL AV. DOS CABOCLINHOS
+RUA PADRE PINTO RUA TIJUANA
+RUA MERMOZ AV. PILOTO CARLOS DEL PRETE
+RUA CORONEL JOSÉ BERNARDO RUA TRÊS LAGOAS
+RUA FONSECA E SILVA RUA APÓSTOLO SIMÃO (Terminal)
+RUA AMARO BARRETO
+AV. PRESIDENTE BANDEIRA
+RUA JAGUARARI
+AV. NEVALDO ROCHA
+LINHA COMPARTILHADA COM A GUANABARA.
+TOTAL DE VIAGENS DA LINHA: 21
+FROTA DA LINHA: 5 CARROS
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 23,00 23,10 46,10
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 23,00 23,10 46,10
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=4f518d1c6caf4ef83b3429cfdfb0643c&param2=16520418&param3=1679859
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20261072900 em 05/08/2026 às 13:12:05 fls. 8
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=60a840012aa9262219602d6d1ed65459&param2=16523002&param3=1679859
+Documento assinado em 05/08/2026 às 14:41:37 fls. 8
+
+==================== PÁGINA 4 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+05/08/2026 às 13:06:26
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0129/2026
+LINHA N-43 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A2 06:10 0 min min
+2 A3 06:45 35 min
+3 A2 08:15 90 min
+4 A3 08:55 40 min
+5 A2 11:15 140 min
+6 A3 12:55 100 min
+7 A5 13:55 60 min
+8 A3 15:00 65 min
+9 A5 17:00 120 min
+10 A5 19:00 120 min
+11 A5 21:00 120 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 09/08/2026
+Natal(RN), quarta-feira, 5 de agosto de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=4f518d1c6caf4ef83b3429cfdfb0643c&param2=16520418&param3=1679859
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20261072900 em 05/08/2026 às 13:12:05 fls. 9
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=60a840012aa9262219602d6d1ed65459&param2=16523002&param3=1679859
+Documento assinado em 05/08/2026 às 14:41:37 fls. 9

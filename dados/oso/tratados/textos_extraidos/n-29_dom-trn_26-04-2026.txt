@@ -1,0 +1,109 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 10:53:32
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0062/2026
+LINHA N-29 - Domingo/Feriado (Convencional)
+Empresa TRANSNACIONAL TRANSPORTES URBANOS LTDA. Tempo de Viagem 80 min
+Linha - Nº e Nome N-29 - NOVA NATAL/MORRO BRANCO, VIA MIDWAY MALL Vel. Média 24,00 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 30,00 Data da Permissão 24/04/2026
+Extensão 32,00 Substitui a OS
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA APÓSTOLO SIMÃO (Terminal) AV. NEVALDO ROCHA
+RUA MONTE CAPITÓLIA VIADUTO DA URBANA
+AV. DOS CABOCLINHOS RUA DOUTOR MÁRIO NEGÓCIO
+AV. DA CHEGANÇA AV. FELIZARDO FIRMINO MOURA
+AV. DA CIRANDA PONTE DE IGAPÓ
+RUA BELA VISTA AV BACHAREL TOMAZ LANDIM
+AV. CIDADE PRAIA AV. DOUTOR JOÃO MEDEIROS FILHO
+RUA SERRA NEGRA AV. GUADALUPE
+RUA JEQUIRIÇÁ RUA ILHÉUS
+AV. SENHOR DO BONFIM RUA PARANDUVA
+RUA PARANDUVA AV. SENHOR DO BONFIM
+RUA ILHÉUS RUA JEQUIRIÇÁ
+AV. GUADALUPE RUA SERRA NEGRA
+AV. DOUTOR JOÃO MEDEIROS FILHO AV. CIDADE PRAIA
+TÚNEL ULISSES DE GÓIS RUA BELA VISTA
+AV BACHAREL TOMAZ LANDIM AV. DA CIRANDA
+PONTE DE IGAPÓ AV. DA CHEGANÇA
+AV. FELIZARDO FIRMINO MOURA AV. DOS CABOCLINHOS
+RUA JANDIRA RUA MONTE CAPITÓLIA
+RUA DOUTOR MÁRIO NEGÓCIO RUA APÓSTOLO SIMÃO (Terminal)
+AV. NEVALDO ROCHA
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 16,00 16,00 32,00
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 16,00 16,00 32,00
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=3463f3d8c251332a878fef0146eeb048&param2=15484073&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 10:55:00 fls. 86
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=146ca15a75b899f39102862a50ef716f&param2=15484129&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:26 fls. 86
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 10:53:32
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0062/2026
+LINHA N-29 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 05:00 0 min min
+2 A2 05:30 30 min
+3 A3 06:00 30 min
+4 A1 06:30 30 min
+5 A2 07:00 30 min
+6 A3 07:30 30 min
+7 A1 08:00 30 min
+8 A2 08:30 30 min
+9 A3 09:00 30 min
+10 A4 09:45 45 min
+11 A1 10:30 45 min
+12 A2 11:00 30 min
+13 A4 11:30 30 min
+14 A1 11:55 25 min
+15 A3 12:15 20 min
+16 A2 12:35 20 min
+17 A5 13:00 25 min
+18 A6 13:35 35 min
+19 A3 14:00 25 min
+20 A5 14:30 30 min
+21 A4 15:00 30 min
+22 A6 15:30 30 min
+23 A5 16:00 30 min
+24 A4 16:30 30 min
+25 A6 17:05 35 min
+26 A4 18:00 55 min
+27 A5 19:00 60 min
+28 A6 20:00 60 min
+29 A5 20:50 50 min
+30 A6 21:40 50 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+Natal(RN), sábado, 25 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=3463f3d8c251332a878fef0146eeb048&param2=15484073&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 10:55:00 fls. 87
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=146ca15a75b899f39102862a50ef716f&param2=15484129&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:26 fls. 87

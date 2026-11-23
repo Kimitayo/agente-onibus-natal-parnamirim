@@ -1,0 +1,104 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+30/04/2026 às 14:51:22
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0007/2026
+LINHA L-56 - Domingo/Feriado
+Empresa LINHA OPCIONAL Tempo de Viagem 85 min
+Linha - Nº e Nome L-56 - ROCAS/PONTA NEGRA, VIA VIA COSTEIRA Vel. Média 25,34 km/h
+Início Vigência 03/05/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 16,00 Data da Permissão 24/04/2026
+Extensão 35,90 Substitui a OS 0003/2026
+ITINERÁRIO
+IDA VOLTA
+AV. DUQUE DE CAXIAS (Terminal) RUA MANOEL CORINGA DE LEMOS
+PRAÇA AUGUSTO SEVERO RUA VEREADOR MANOEL SÁTIRO
+AV. CÂMARA CASCUDO AV ENGENHEIRO ROBERTO FREIRE
+RUA PADRE JOÃO MANUEL AV. PRAIA DE PIRANGI
+RUA ULISSES CALDAS AV. PRAIA DE BUZIOS
+RUA MOSSORÓ RUA PRAIA DE COTOVELO
+AV. PRUDENTE DE MORAIS RUA PRAIA DE JACUMA
+AV. NILO PEÇANHA AV. PRAIA DE TIBAU
+AV. PRESIDENTE GETÚLIO VARGAS AV ENGENHEIRO ROBERTO FREIRE
+ARTÉRIA LADEIRA DO SOL AV. SENADOR DINARTE DE MEDEIROS MARIZ
+RUA FABRICIO PEDROZA AV GOVERNADOR SILVIO PEDROZA
+AV GOVERNADOR SILVIO PEDROZA RUA PINTO MARTINS
+AV. SENADOR DINARTE DE MEDEIROS MARIZ RUA DESEMBARGADOR DIONÍSIO FILGUEIRA
+AV ENGENHEIRO ROBERTO FREIRE RUA CORONEL JOAQUIM MANOEL
+AV. PRAIA DE TIBAU AV. NILO PEÇANHA
+RUA PRAIA DE ITAMARACÁ AV. PRUDENTE DE MORAIS
+RUA PRAIA DE COTOVELO AV. DEODORO DA FONSECA
+AV. PRAIA DE BUZIOS RUA APODI
+AV. PRAIA DE PIRANGI AV. RIO BRANCO
+AV ENGENHEIRO ROBERTO FREIRE RUA GENERAL GLICERIO
+RUA VEREADOR MANOEL SÁTIRO AV. DUQUE DE CAXIAS (Terminal)
+RUA MANOEL CORINGA DE LEMOS
+A OSO obedece critérios regulamentares e Decisão Judicial, na
+EM FUNÇÃO DA GRATUIDADE NOS DOMINGOS, A
+forma do Processo nº 001.00.0039048/5ª Vara da Fazenda Pública
+OPERAÇÃO DA LINHA OCORRERÁ EM RODÍZIO DE (D.O.E. 30.05.02)
+TODOS OS PERMISSIONÁRIOS DO SISTEMA
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 17,95 17,95 35,90
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 17,95 17,95 35,90
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=64eebe39139b3f6d6dc5e011fee21696&param2=15545402&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:51:50 fls. 115
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=0296f3fa525f2a10661526b0b79692fb&param2=15545964&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:51 fls. 115
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+30/04/2026 às 14:51:22
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0007/2026
+LINHA L-56 - Domingo/Feriado
+QUADRO DE HORARIO
+Saída Saída Saída Saída
+Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq
+1 A1 06:15 I 0min min min min
+2 A2 06:15 0min
+3 A1 07:00 45min
+4 A2 07:45 45min
+5 A1 08:35 50min
+6 A2 09:35 60min
+7 A3 10:35 60min
+8 A1 11:35 60min
+9 A3 12:20 45min
+10 A2 12:55 35min
+11 A1 13:30 F 35min
+12 A4 14:25 55min
+13 A3 15:25 60min
+14 A4 16:00 35min
+15 A3 17:00 60min
+16 A4 18:00 60min
+17 A3 19:00 F 60min
+18 A4 21:10 130min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 03/05/2026
+I: MEIA VIAGEM INICIAL | F: MEIA VIAGEM FINAL | 3 MEIAS VIAGENS
+Natal(RN), quinta-feira, 30 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=64eebe39139b3f6d6dc5e011fee21696&param2=15545402&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:51:50 fls. 116
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=0296f3fa525f2a10661526b0b79692fb&param2=15545964&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:51 fls. 116

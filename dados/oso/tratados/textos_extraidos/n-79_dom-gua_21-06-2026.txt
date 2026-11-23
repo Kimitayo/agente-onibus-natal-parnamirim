@@ -1,0 +1,117 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+19/06/2026 às 09:26:44
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0091/2026
+LINHA N-79 - Domingo/Feriado (Alimentador)
+Empresa GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA Tempo de Viagem 50 min
+Linha - Nº e Nome N-79 - P. DAS DUNAS/SANTA CATARINA, VIA PARTAGE SHOPPINVel. Média 22,20 km/h
+Início Vigência 21/06/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 42,00 Data da Permissão 01/10/1993
+Extensão 18,50 Substitui a OS 0072/2026
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA DESPORTISTA MANOEL LEONARDO NOGUEIRA (Terminal) RUA ILHÉUS
+AV. MAR DO NORTE AV. GUADALUPE
+AV. MAR DO SUL AV. DOUTOR JOÃO MEDEIROS FILHO
+AV. MAR MEDITERRÂNEO AV. MOEMA TINOCO DA CUNHA LIMA
+AV. MAR DO CARIBE RUA AÇUDE SANTA RITA DE CÁSSIA
+AV MAR DO NORTE RUA AÇUDE DO GAVIÃO
+AV. MAR DO OESTE AV. BARRAGEM ARMANDO RIBEIRO GONÇALVES
+AV. MAR MEDITERRÂNEO AV. COMUNIDADE EM AÇÃO
+AV. COMUNIDADE EM AÇÃO AV. MAR MEDITERRÂNEO
+AV. BARRAGEM ARMANDO RIBEIRO GONÇALVES AV. MAR DO OESTE
+RUA AÇUDE CACIMBA DE CIMA AV. MAR DO NORTE
+RUA AÇUDE SANTA RITA DE CÁSSIA AV. MAR DO CARIBE
+AV. MOEMA TINOCO DA CUNHA LIMA AV. MAR MEDITERRÂNEO
+AV. DOUTOR JOÃO MEDEIROS FILHO AV. MAR DO SUL
+AV. MARANGUAPE AV. MAR DO NORTE
+RUA ILHÉUS RUA CRONISTA JOSÉ AUGUSTO DOS SANTOS
+AV. REMADOR CLODOALDO BAKKER
+RUA DESPORTISTA MANOEL LEONARDO NOGUEIRA (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 9,25 9,25 18,50
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 9,25 9,25 18,50
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=d25d3c1706bd357a476d64db93411438&param2=16043411&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 19/06/2026 às 09:29:05 fls. 157
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=cf3ef6f72fc7f2885dc0801d120ff25c&param2=16046887&param3=1626985
+Documento assinado em 19/06/2026 às 11:19:30 fls. 157
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+19/06/2026 às 09:26:44
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0091/2026
+LINHA N-79 - Domingo/Feriado (Alimentador)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+41 3B5 21:55 35 min min
+1 1A1 05:05 0 min min
+42 2B7 22:30 35 min
+2 2A1 05:30 25 min
+3 1A2 05:50 20 min
+4 3A1 06:10 20 min
+5 2A2 06:30 20 min
+6 1A3 06:50 20 min
+7 3A2 07:10 20 min
+8 2A3 07:30 20 min
+9 1A4 07:50 20 min
+10 3A3 08:10 20 min
+11 2A4 08:30 20 min
+12 1A5 08:50 20 min
+13 3A4 09:10 20 min
+14 2A5 09:30 20 min
+15 1A6 09:45 15 min
+16 3A5 10:15 30 min
+17 4B1 10:55 40 min
+18 1A7 11:25 30 min
+19 2A6 11:55 30 min
+20 4B2 12:25 30 min
+21 3A6 12:50 25 min
+22 2A7 13:15 25 min
+23 4B3 13:40 25 min
+24 1B1 14:10 30 min
+25 2B1 14:30 20 min
+26 4B4 14:50 20 min
+27 3B1 15:10 20 min
+28 1B2 15:30 20 min
+29 2B2 16:00 30 min
+30 3B2 16:30 30 min
+31 1B3 17:00 30 min
+32 4B5 17:30 30 min
+33 5B3 18:00 30 min
+34 1B4 18:30 30 min
+35 2B4 19:00 30 min
+36 3B3 19:20 20 min
+37 1B5 19:45 25 min
+38 2B5 20:10 25 min
+39 3B4 20:45 35 min
+40 2B6 21:20 35 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 21/06/2026
+Natal(RN), sexta-feira, 19 de junho de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=d25d3c1706bd357a476d64db93411438&param2=16043411&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 19/06/2026 às 09:29:05 fls. 158
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=cf3ef6f72fc7f2885dc0801d120ff25c&param2=16046887&param3=1626985
+Documento assinado em 19/06/2026 às 11:19:30 fls. 158

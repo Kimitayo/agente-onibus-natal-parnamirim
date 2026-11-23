@@ -1,0 +1,107 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+24/04/2026 às 21:32:46
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0063/2026
+LINHA N-07 - Domingo/Feriado (Convencional)
+Empresa TRANSNACIONAL TRANSPORTES URBANOS LTDA. Tempo de Viagem 80 min
+Linha - Nº e Nome N-07 - ALVORADA IV/MORRO BRANCO, VIA MIDWAY MALL Vel. Média 21,89 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 30,00 Data da Permissão 24/04/2026
+Extensão 29,18 Substitui a OS
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+AV. INDUSTRIAL (Terminal) AV. NEVALDO ROCHA
+AV. BOA SORTE VIADUTO DA URBANA
+AV. DAS FRONTEIRAS RUA DOUTOR MÁRIO NEGÓCIO
+AV. PAULISTANA AV. FELIZARDO FIRMINO MOURA
+AV. DOUTOR JOÃO MEDEIROS FILHO PONTE DE IGAPÓ
+TÚNEL ULISSES DE GÓIS AV BACHAREL TOMAZ LANDIM
+AV BACHAREL TOMAZ LANDIM AV. DOUTOR JOÃO MEDEIROS FILHO
+PONTE DE IGAPÓ AV. PAULISTANA
+AV. FELIZARDO FIRMINO MOURA AV. DAS FRONTEIRAS
+RUA JANDIRA AV. BOA SORTE
+RUA DOUTOR MÁRIO NEGÓCIO AV. INDUSTRIAL (Terminal)
+VIADUTO DA URBANA
+AV. NEVALDO ROCHA
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 14,59 14,59 29,18
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 14,59 14,59 29,18
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=48fd8f3ffa11777bddf1d62556c8e7e2&param2=15483783&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 21:44:31 fls. 16
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=33ce053ed3142e215ad727fb165e49ad&param2=15483824&param3=1626985
+Documento assinado em 24/04/2026 às 22:00:49 fls. 16
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=577a723833188f4b6629dfe3e926017e&param2=15483922&param3=1626985
+Documento assinado em 24/04/2026 às 22:31:38 fls. 16
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+24/04/2026 às 21:32:46
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0063/2026
+LINHA N-07 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 04:45 0 min min
+2 A2 05:15 30 min
+3 A3 05:45 30 min
+4 A1 06:15 30 min
+5 A2 06:45 30 min
+6 A3 07:15 30 min
+7 A1 07:45 30 min
+8 A2 08:15 30 min
+9 A3 08:45 30 min
+10 A4 09:30 45 min
+11 A1 10:15 45 min
+12 A2 10:45 30 min
+13 A4 11:15 30 min
+14 A1 11:40 25 min
+15 A3 12:00 20 min
+16 A2 12:20 20 min
+17 A5 12:45 25 min
+18 A6 13:20 35 min
+19 A3 13:45 25 min
+20 A5 14:15 30 min
+21 A4 14:45 30 min
+22 A6 15:15 30 min
+23 A5 15:45 30 min
+24 A4 16:15 30 min
+25 A6 16:50 35 min
+26 A4 17:45 55 min
+27 A5 18:45 60 min
+28 A6 19:45 60 min
+29 A5 20:35 50 min
+30 A6 21:25 50 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+Natal(RN), sexta-feira, 24 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=48fd8f3ffa11777bddf1d62556c8e7e2&param2=15483783&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 21:44:31 fls. 17
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=33ce053ed3142e215ad727fb165e49ad&param2=15483824&param3=1626985
+Documento assinado em 24/04/2026 às 22:00:49 fls. 17
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=577a723833188f4b6629dfe3e926017e&param2=15483922&param3=1626985
+Documento assinado em 24/04/2026 às 22:31:38 fls. 17

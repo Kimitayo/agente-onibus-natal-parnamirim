@@ -1,0 +1,183 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 09:46:16
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0056/2026
+LINHA O-33A - Domingo/Feriado (Convencional)
+Empresa AUTO ÔNIBUS SANTA MARIA LTDA Tempo de Viagem 80 min
+Linha - Nº e Nome O-33A - PLANALTO/LAGOA NOVA, VIA MIDWAY MALL Vel. Média 21,30 km/h
+Início Vigência 26/04/2025 Km Morta 0,00
+Frota 3 Nº de Paradas 0
+Nº de Viagens 14,00 Data da Permissão 11/01/2000
+Extensão 28,40 Substitui a OS 0065/2025
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal) RUA ALBERTO SILVA
+RUA AGRESTINA AV. SENADOR SALGADO FILHO
+RUA MONTE REI AV MIGUEL CASTRO
+AV. DOS CAIAPÓS AV. PRUDENTE DE MORAIS
+RUA SERRA DA JUREMA AV. PREFEITO OMAR O´ GRADY
+RUA SERRA DOS CARAJÁS AV. DOS XAVANTES
+RUA RIO GRAMAME RUA RIO TATUAPÉ
+AV. DOS XAVANTES RUA RIO TAMANDUATEI
+AV. PREFEITO OMAR O´ GRADY RUA SERRA DA JUREMA
+AV. PRUDENTE DE MORAIS RUA MONTE REI
+VIADUTO ESTAIADO RUA AGRESTINA
+AV. PRUDENTE DE MORAIS RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal)
+AV AMINTAS BARROS
+AV. SENADOR SALGADO FILHO
+AV. ALMIRANTE ALEXANDRINO DE ALENCAR
+AV. RUI BARBOSA
+AV. NEVALDO ROCHA
+AV. ROMUALDO GALVÃO
+RUA ALBERTO SILVA
+LINHA COMPARTILHADA COM A CIDADE DO NATAL.
+TOTAL DE VIAGENS DA LINHA: 23
+FROTA DA LINHA: 5 CARROS
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 14,20 14,20 28,40
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 14,20 14,20 28,40
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=b254b25a02b2e28516914ddf8bc37c95&param2=15484025&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 09:46:52 fls. 64
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=a7213a77e4ca16ef819b3311398208d6&param2=15484118&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:06 fls. 64
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 09:46:16
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0056/2026
+LINHA O-33A - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 05:10 0 min min
+2 A1 06:40 90 min
+3 A1 08:10 90 min
+4 A3 09:35 85 min
+5 A1 11:05 90 min
+6 A3 11:50 45 min
+7 A1 12:30 40 min
+8 B1 14:00 90 min
+9 A3 14:40 40 min
+10 B1 16:00 80 min
+11 A3 16:40 40 min
+12 B1 18:40 120 min
+13 B1 20:40 120 min
+14 B1 22:40 120 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2025
+Natal(RN), sábado, 25 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=b254b25a02b2e28516914ddf8bc37c95&param2=15484025&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 09:46:52 fls. 65
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=a7213a77e4ca16ef819b3311398208d6&param2=15484118&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:06 fls. 65
+
+==================== PÁGINA 3 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 09:29:28
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0058/2026
+LINHA O-33A - Domingo/Feriado (Convencional)
+Empresa TRANSPORTES CIDADE DO NATAL Tempo de Viagem 80 min
+Linha - Nº e Nome O-33A - PLANALTO/LAGOA NOVA, VIA MIDWAY MALL Vel. Média 21,30 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 1 Nº de Paradas 0
+Nº de Viagens 9,00 Data da Permissão 11/01/2000
+Extensão 28,40 Substitui a OS 0066/2025
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal) RUA ALBERTO SILVA
+RUA AGRESTINA AV. SENADOR SALGADO FILHO
+RUA MONTE REI AV MIGUEL CASTRO
+AV. DOS CAIAPÓS AV. PRUDENTE DE MORAIS
+RUA SERRA DA JUREMA AV. PREFEITO OMAR O´ GRADY
+RUA SERRA DOS CARAJÁS AV. DOS XAVANTES
+RUA RIO GRAMAME RUA RIO TATUAPÉ
+AV. DOS XAVANTES RUA RIO TAMANDUATEI
+AV. PREFEITO OMAR O´ GRADY RUA SERRA DA JUREMA
+AV. PRUDENTE DE MORAIS RUA MONTE REI
+VIADUTO ESTAIADO RUA AGRESTINA
+AV. PRUDENTE DE MORAIS RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal)
+AV AMINTAS BARROS
+AV. SENADOR SALGADO FILHO
+AV. ALMIRANTE ALEXANDRINO DE ALENCAR
+AV. RUI BARBOSA
+AV. NEVALDO ROCHA
+AV. ROMUALDO GALVÃO
+RUA ALBERTO SILVA
+LINHA COMPARTILHADA COM A SANTA MARIA.
+TOTAL DE VIAGENS DA LINHA: 23
+FROTA DA LINHA: 5 CARROS
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 14,20 14,20 28,40
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 14,20 14,20 28,40
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=27f1d3f74e0f8c0d111590c4d3d2e7a4&param2=15484023&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 09:30:23 fls. 60
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=057abdc5b4e61a438420fb02312611e2&param2=15484117&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:04 fls. 60
+
+==================== PÁGINA 4 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 09:29:28
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0058/2026
+LINHA O-33A - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A2 05:50 0 min min
+2 A2 07:25 95 min
+3 A2 08:50 85 min
+4 A2 10:15 85 min
+5 A2 13:10 175 min
+6 B2 15:20 130 min
+7 B2 17:40 140 min
+8 B2 19:40 120 min
+9 B2 21:40 120 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+Natal(RN), sábado, 25 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=27f1d3f74e0f8c0d111590c4d3d2e7a4&param2=15484023&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 09:30:23 fls. 61
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=057abdc5b4e61a438420fb02312611e2&param2=15484117&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:04 fls. 61

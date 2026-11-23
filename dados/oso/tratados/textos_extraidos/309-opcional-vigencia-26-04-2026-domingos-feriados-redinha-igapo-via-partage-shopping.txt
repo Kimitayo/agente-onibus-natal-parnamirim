@@ -1,0 +1,96 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+25/04/2026 às 09:49:19
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0002/2026
+LINHA 309 - Domingo/Feriado
+Empresa LINHA OPCIONAL Tempo de Viagem 40 min
+Linha - Nº e Nome 309 - REDINHA/IGAPÓ, VIA PARTAGE SHOPPING Vel. Média 25,65 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 3 Nº de Paradas 0
+Nº de Viagens 24,00 Data da Permissão 02/09/1999
+Extensão 17,10 Substitui a OS 0020/2016
+ITINERÁRIO
+IDA VOLTA
+RUA FRANCISCO IVO (Terminal) RUA BOM JESUS
+RUA JOSÉ HERONCIO DE MELO AV BACHAREL TOMAZ LANDIM
+RUA ENGENHEIRO CLÓVIS ARAGÃO AV. DOUTOR JOÃO MEDEIROS FILHO
+RUA DR. JOÃO MEDEIROS FILHO RUA FRANCISCO IVO (Terminal)
+TÚNEL ULISSES DE GÓIS
+AV BACHAREL TOMAZ LANDIM
+RUA CRISTO REI
+RUA LÍRIO DO VALE
+RUA DOUTOR RAIMUNDO VERISSIMO
+A OSO obedece critérios regulamentares e Decisão Judicial, na
+EM FUNÇÃO DA GRATUIDADE NOS DOMINGOS, A
+forma do Processo nº 001.00.0039048/5ª Vara da Fazenda Pública
+OPERAÇÃO DA LINHA OCORRERÁ EM RODÍZIO DE (D.O.E. 30.05.02)
+TODOS OS PERMISSIONÁRIOS DO SISTEMA
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 8,55 8,55 17,10
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 8,55 8,55 17,10
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=9615a6018420a3630f175611013a2111&param2=15484028&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 09:50:17 fls. 68
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=591559cc6b66e7a8c58a628c67ec9e60&param2=15484120&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:09 fls. 68
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+25/04/2026 às 09:49:19
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0002/2026
+LINHA 309 - Domingo/Feriado
+QUADRO DE HORARIO
+Saída Saída Saída Saída
+Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq
+1 A1 05:30 0min min min min
+2 A2 06:00 30min
+3 A1 06:25 25min
+4 A2 06:50 25min
+5 A1 07:15 25min
+6 A2 07:50 35min
+7 A2 08:40 50min
+8 A1 09:15 35min
+9 A1 10:00 45min
+10 A2 10:30 30min
+11 A1 11:00 30min
+12 A2 11:30 30min
+13 A1 12:00 30min
+14 A2 12:30 30min
+15 A1 13:00 30min
+16 A3 13:25 25min
+17 A2 13:50 25min
+18 A3 14:20 30min
+19 A3 15:10 50min
+20 A3 16:00 50min
+21 A3 16:50 50min
+22 A3 17:40 50min
+23 A3 19:30 110min
+24 A3 20:30 60min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+Natal(RN), sábado, 25 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=9615a6018420a3630f175611013a2111&param2=15484028&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 09:50:17 fls. 69
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=591559cc6b66e7a8c58a628c67ec9e60&param2=15484120&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:09 fls. 69

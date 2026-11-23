@@ -1,0 +1,103 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+21/05/2026 às 16:56:31
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0009/2026
+LINHA 600 - Domingo/Feriado
+Empresa LINHA OPCIONAL Tempo de Viagem 50 min
+Linha - Nº e Nome 600 - P. DOS COQUEIROS/S. CATARINA, VIA PARTAGE SHOPPING Vel. Média 21,84 km/h
+Início Vigência 10/05/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 28,00 Data da Permissão 20/09/2014
+Extensão 18,20 Substitui a OS 0001/2026
+ITINERÁRIO
+IDA VOLTA
+RUA PEDRO ÁLVARES CABRAL (Terminal) AV. DOUTOR JOÃO MEDEIROS FILHO
+RUA SÃO FRANCISCO AV. GUADALUPE
+AV. SANTARÉM RUA ILHÉUS
+AV. INDUSTRIAL AV. MARANGUAPE
+AV. BOA SORTE AV. DAS FRONTEIRAS
+AV. DAS FRONTEIRAS AV. BOA SORTE
+AV. PADRE TIAGO THEISEN AV. INDUSTRIAL
+AV. BLUMENAU AV. SANTARÉM
+AV. SENHOR DO BONFIM RUA SÃO FRANCISCO
+RUA JUÇARA RUA PEDRO ÁLVARES CABRAL (Terminal)
+AV. BAHIA
+AV. DOUTOR JOÃO MEDEIROS FILHO
+A OSO obedece critérios regulamentares e Decisão Judicial, na
+EM FUNÇÃO DA GRATUIDADE NOS DOMINGOS, A
+forma do Processo nº 001.00.0039048/5ª Vara da Fazenda Pública
+OPERAÇÃO DA LINHA OCORRERÁ EM RODÍZIO DE (D.O.E. 30.05.02)
+TODOS OS PERMISSIONÁRIOS DO SISTEMA
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 9,10 9,10 18,20
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 9,10 9,10 18,20
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=431fbfc676358744f6a4dc3c1755cc8f&param2=15755958&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 21/05/2026 às 16:57:23 fls. 140
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=ef38f347392d209952ba8872126aca6d&param2=15758537&param3=1626985
+Documento assinado em 22/05/2026 às 08:39:57 fls. 140
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+21/05/2026 às 16:56:31
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0009/2026
+LINHA 600 - Domingo/Feriado
+QUADRO DE HORARIO
+Saída Saída Saída Saída
+Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq
+1 A1 06:00 0min min min min
+2 A2 06:30 30min
+3 A1 07:00 30min
+4 A2 07:30 30min
+5 A1 08:00 30min
+6 A2 08:30 30min
+7 A1 09:00 30min
+8 A2 09:30 30min
+9 A3 10:00 30min
+10 A2 10:30 30min
+11 A3 11:00 30min
+12 A1 11:25 25min
+13 A3 11:55 30min
+14 A1 12:20 25min
+15 A2 12:45 25min
+16 A4 13:10 25min
+17 A1 13:35 25min
+18 A2 14:00 25min
+19 A4 14:25 25min
+20 A3 14:50 25min
+21 A4 15:20 30min
+22 A3 15:50 30min
+23 A4 16:20 30min
+24 A3 16:50 30min
+25 A3 17:50 60min
+26 A4 18:50 60min
+27 A4 19:50 60min
+28 A4 21:05 75min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 10/05/2026
+Natal(RN), quinta-feira, 21 de maio de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=431fbfc676358744f6a4dc3c1755cc8f&param2=15755958&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 21/05/2026 às 16:57:23 fls. 141
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=ef38f347392d209952ba8872126aca6d&param2=15758537&param3=1626985
+Documento assinado em 22/05/2026 às 08:39:57 fls. 141

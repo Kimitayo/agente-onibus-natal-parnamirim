@@ -1,0 +1,120 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+30/04/2026 às 14:37:06
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0076/2026
+LINHA S-50 - Domingo/Feriado (Alimentador)
+Empresa TRANSFLOR LTDA Tempo de Viagem 50 min
+Linha - Nº e Nome S-50 - SERRAMBI/LAGOA NOVA, VIA MIDWAY MALL Vel. Média 22,20 km/h
+Início Vigência 03/05/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 46,00 Data da Permissão 25/08/1999
+Extensão 18,50 Substitui a OS 0051/2026
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA DOUTOR JÚLIO CÉSAR DE ANDRADE (Terminal) AV. NEVALDO ROCHA
+RUA JOAQUIM EDUARDO DE FARIAS AV. SENADOR SALGADO FILHO
+RUA ESCRITOR EURICO FARIAS LACERDA BR 101
+RUA DESPORTISTA JEREMIAS PINHEIRO DA CÂMARA FILHO VIADUTO DA ARENA DAS DUNAS
+AV. AYRTON SENNA BR 101
+RUA DOUTOR ORLANDO DE AZEVEDO VIADUTO DE PONTA NEGRA
+RUA MISSIONARIO GUNNAR VINGREN AV. ENGENHEIRO ROBERTO FREIRE
+AV. ENGENHEIRO ROBERTO FREIRE AV. AYRTON SENNA
+BR 101 RUA DESPORTISTA JEREMIAS PINHEIRO DA CÂMARA FILHO
+VIADUTO DA UFRN RUA DOUTOR JÚLIO CÉSAR DE ANDRADE (Terminal)
+BR 101
+AV. SENADOR SALGADO FILHO
+RUA ALMEIDA BARRETO
+RUA PROFESSOR ANTÔNIO CAMPOS
+AV NASCIMENTO DE CASTRO
+AV. ROMUALDO GALVÃO
+AV. NEVALDO ROCHA
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 9,25 9,25 18,50
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 9,25 9,25 18,50
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=ca9c9da14ab645f8e80db2ea0dad1a3e&param2=15545063&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:37:29 fls. 111
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=fad19bcdd99d385d6259988df7acffd0&param2=15545955&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:27 fls. 111
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+30/04/2026 às 14:37:06
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0076/2026
+LINHA S-50 - Domingo/Feriado (Alimentador)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+41 B2 19:40 25 min min
+1 A1 04:40 0 min min
+42 B3 20:00 20 min
+2 A2 05:00 20 min
+43 B1 20:30 30 min
+3 A3 05:20 20 min
+44 B2 21:00 30 min
+4 A1 05:45 25 min
+45 B3 21:35 35 min
+5 A2 06:05 20 min
+46 B1 22:15 40 min
+6 A3 06:25 20 min
+7 A1 06:50 25 min
+8 A2 07:10 20 min
+9 A3 07:30 20 min
+10 A1 07:55 25 min
+11 A2 08:15 20 min
+12 A3 08:35 20 min
+13 A1 09:00 25 min
+14 A2 09:20 20 min
+15 D1 09:50 30 min
+16 A3 10:25 35 min
+17 D1 10:50 25 min
+18 A1 11:10 20 min
+19 A2 11:30 20 min
+20 A3 11:50 20 min
+21 A1 12:15 25 min
+22 A2 12:35 20 min
+23 A3 12:55 20 min
+24 B1 13:20 25 min
+25 B2 13:40 20 min
+26 B3 14:00 20 min
+27 B1 14:20 20 min
+28 D1 14:40 20 min
+29 B2 15:05 25 min
+30 B3 15:25 20 min
+31 3B1 15:50 25 min
+32 B1 16:20 30 min
+33 B1 16:45 25 min
+34 B2 17:05 20 min
+35 B3 17:30 25 min
+36 B1 17:50 20 min
+37 D1 18:15 25 min
+38 B2 18:35 20 min
+39 B3 18:55 20 min
+40 B1 19:15 20 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 03/05/2026
+Natal(RN), quinta-feira, 30 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=ca9c9da14ab645f8e80db2ea0dad1a3e&param2=15545063&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:37:29 fls. 112
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=fad19bcdd99d385d6259988df7acffd0&param2=15545955&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:27 fls. 112

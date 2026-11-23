@@ -1,0 +1,156 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+16/04/2025 às 14:50:03
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0063/2025
+LINHA 585 - Domingo/Feriado (Alimentador)
+Empresa AUTO ÔNIBUS SANTA MARIA LTDA Tempo de Viagem 10 min
+Linha - Nº e Nome 585 - TERMINAL PLANALTO/VILLAGE DE PRATA Vel. Média 23,16 km/h
+Início Vigência 18/04/2025 Km Morta 0,00
+Frota 1 Nº de Paradas 0
+Nº de Viagens 14,00 Data da Permissão 14/09/2020
+Extensão 3,86 Substitui a OS 0039/2004
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal) RUA SEM NOME (VILLAGE DE PRATA)
+RUA ARAGUAIANA RUA SEM NOME (VILLAGE DE PRATA)
+RUA SEM NOME (VILLAGE DE PRATA) RUA SEM NOME (VILLAGE DE PRATA)
+RUA SEM NOME (VILLAGE DE PRATA) RUA ARAGUAIANA
+RUA SEM NOME (VILLAGE DE PRATA) RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 1,93 1,93 3,86
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 1,93 1,93 3,86
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=64a11fd52535ac971518720c938d2e13&param2=11964516&param3=1403331
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20250294900 em 16/04/2025 às 14:53:46 fls. 23
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=c0a04e464a9c91a3ca8064a5caaabf91&param2=11986130&param3=1403331
+Documento assinado em 23/04/2025 às 10:16:38 fls. 23
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+16/04/2025 às 14:50:03
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0063/2025
+LINHA 585 - Domingo/Feriado (Alimentador)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 05:00 0 min min
+2 A1 05:25 25 min
+3 A1 05:50 25 min
+4 A1 06:15 25 min
+5 A1 06:40 25 min
+6 A1 07:05 25 min
+7 A1 07:35 30 min
+8 A1 09:30 115 min
+9 A1 10:00 30 min
+10 A1 10:30 30 min
+11 A1 11:00 30 min
+12 A1 11:30 30 min
+13 A1 12:00 30 min
+14 A1 12:30 30 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 18/04/2025
+Natal(RN), quarta-feira, 16 de abril de 2.025
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=64a11fd52535ac971518720c938d2e13&param2=11964516&param3=1403331
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20250294900 em 16/04/2025 às 14:53:46 fls. 24
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=c0a04e464a9c91a3ca8064a5caaabf91&param2=11986130&param3=1403331
+Documento assinado em 23/04/2025 às 10:16:38 fls. 24
+
+==================== PÁGINA 3 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+16/04/2025 às 14:50:15
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0064/2025
+LINHA 585 - Domingo/Feriado (Alimentador)
+Empresa TRANSPORTES CIDADE DO NATAL Tempo de Viagem 10 min
+Linha - Nº e Nome 585 - TERMINAL PLANALTO/VILLAGE DE PRATA Vel. Média 23,16 km/h
+Início Vigência 18/04/2025 Km Morta 0,00
+Frota 0 Nº de Paradas 0
+Nº de Viagens 13,00 Data da Permissão 14/09/2020
+Extensão 3,86 Substitui a OS
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal) RUA SEM NOME (VILLAGE DE PRATA)
+RUA ARAGUAIANA RUA SEM NOME (VILLAGE DE PRATA)
+RUA SEM NOME (VILLAGE DE PRATA) RUA SEM NOME (VILLAGE DE PRATA)
+RUA SEM NOME (VILLAGE DE PRATA) RUA ARAGUAIANA
+RUA SEM NOME (VILLAGE DE PRATA) RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal)
+EM RAZÃO DE CADA EMPRESA OPERAR METADE DO DIA, A FROTA NESTA OSO ESTÁ ZERADA PARA EVITAR DUPLICATA, SENDO
+A FROTA DA LINHA CONTABILIZADA NA OPERAÇÃO DA SANTA MARIA. CADA EMPRESA OPERA COM UM CARRO, SENDO UM PELA
+MANHÃ E OUTRA A TARDE.
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 1,93 1,93 3,86
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 1,93 1,93 3,86
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=339eb5d0d7cb4243bfef099b825c7193&param2=11964526&param3=1403331
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20250294900 em 16/04/2025 às 14:54:22 fls. 25
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=d44b5829facd79545941b04e058496e1&param2=11986127&param3=1403331
+Documento assinado em 23/04/2025 às 10:16:33 fls. 25
+
+==================== PÁGINA 4 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+16/04/2025 às 14:50:15
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0064/2025
+LINHA 585 - Domingo/Feriado (Alimentador)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 B1 13:50 0 min min
+2 B1 14:15 25 min
+3 B1 14:30 15 min
+4 B1 15:00 30 min
+5 B1 16:50 110 min
+6 B1 17:15 25 min
+7 B1 17:55 40 min
+8 B1 18:25 30 min
+9 B1 18:55 30 min
+10 B1 19:15 20 min
+11 B1 19:55 40 min
+12 B1 20:55 60 min
+13 B1 22:10 75 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 18/04/2025
+Natal(RN), quarta-feira, 16 de abril de 2.025
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=339eb5d0d7cb4243bfef099b825c7193&param2=11964526&param3=1403331
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20250294900 em 16/04/2025 às 14:54:22 fls. 26
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=d44b5829facd79545941b04e058496e1&param2=11986127&param3=1403331
+Documento assinado em 23/04/2025 às 10:16:33 fls. 26

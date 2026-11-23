@@ -1,0 +1,104 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+04/05/2026 às 13:13:07
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0008/2026
+LINHA 583 - Domingo/Feriado
+Empresa LINHA OPCIONAL Tempo de Viagem 30 min
+Linha - Nº e Nome 583 - MIRASSOL/CANDELÁRIA, VIA RUA ATAULFO ALVES Vel. Média 16,04 km/h
+Início Vigência 03/05/2026 Km Morta 0,00
+Frota 2 Nº de Paradas 0
+Nº de Viagens 25,00 Data da Permissão 24/04/2026
+Extensão 8,02 Substitui a OS 0005/2026
+ITINERÁRIO
+IDA VOLTA
+BR 101 (Terminal) AV. PRUDENTE DE MORAIS
+TÚNEL DA UFRN RUA PADRE DIOGO FEIJÓ
+BR 101 RUA MARECHAL RONDON
+RUA ATAULFO ALVES RUA MOYSES SESYON
+RUA BENTO GONÇALVES AV. DAS BRANCAS DUNAS
+AV. PRUDENTE DE MORAIS ALAMEDA DAS MANSÕES
+ALAMEDA MARECHAL SUCUPIRA
+ALAMEDA BOLIVIANA
+AV. DAS BRANCAS DUNAS
+RUA VALDIR TARGINO
+RUA MARECHAL RONDON
+RUA ATAULFO ALVES
+BR 101
+VIADUTO DA UFRN
+AV. ENGENHEIRO ROBERTO FREIRE
+BR 101 (Terminal)
+A OSO obedece critérios regulamentares e Decisão Judicial, na
+EM FUNÇÃO DA GRATUIDADE NOS DOMINGOS, A
+forma do Processo nº 001.00.0039048/5ª Vara da Fazenda Pública
+OPERAÇÃO DA LINHA OCORRERÁ EM RODÍZIO DE (D.O.E. 30.05.02)
+TODOS OS PERMISSIONÁRIOS DO SISTEMA
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 4,01 4,01 8,02
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 4,01 4,01 8,02
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=1f3b70913e15a59c6e405166ed78c0d1&param2=15560994&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 04/05/2026 às 13:15:55 fls. 121
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=83b626a6780ac30d0138cbd838eca42d&param2=15561697&param3=1626985
+Documento assinado em 04/05/2026 às 13:37:02 fls. 121
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+04/05/2026 às 13:13:07
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0008/2026
+LINHA 583 - Domingo/Feriado
+QUADRO DE HORARIO
+Saída Saída Saída Saída
+Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq
+1 A1 05:30 0min min min min
+2 A1 06:10 40min
+3 A1 06:45 35min
+4 A1 07:20 35min
+5 A1 07:55 35min
+6 A1 09:25 90min
+7 A1 10:00 35min
+8 A1 10:35 35min
+9 A1 11:10 35min
+10 A1 11:45 35min
+11 A1 12:20 35min
+12 A1 12:55 35min
+13 A1 13:30 35min
+14 B1 14:05 35min
+15 B1 14:40 35min
+16 B1 15:15 35min
+17 B1 15:50 35min
+18 B1 17:20 90min
+19 B1 17:55 35min
+20 B1 18:30 35min
+21 B1 19:05 35min
+22 B1 19:40 35min
+23 B1 20:15 35min
+24 B1 20:50 35min
+25 B1 21:45 55min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 03/05/2026
+Natal(RN), segunda-feira, 4 de maio de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=1f3b70913e15a59c6e405166ed78c0d1&param2=15560994&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 04/05/2026 às 13:15:55 fls. 122
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=83b626a6780ac30d0138cbd838eca42d&param2=15561697&param3=1626985
+Documento assinado em 04/05/2026 às 13:37:02 fls. 122

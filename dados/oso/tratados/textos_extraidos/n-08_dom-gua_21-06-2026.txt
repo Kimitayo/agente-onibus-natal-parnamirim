@@ -1,0 +1,112 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+17/06/2026 às 15:43:50
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0089/2026
+LINHA N-08 - Domingo/Feriado (Convencional)
+Empresa GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA Tempo de Viagem 120 min
+Linha - Nº e Nome N-08 - REDINHA/MIRASSOL, VIA RODOVIÁRIA Vel. Média 22,30 km/h
+Início Vigência 21/06/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 33,00 Data da Permissão 07/10/1991
+Extensão 44,60 Substitui a OS 0078/2026
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA TENENTE EVERALDO BORGES DE MOURA (Terminal) AV. ENGENHEIRO ROBERTO FREIRE
+RUA FRANCISCO IVO BR 101
+RUA JOSE HERONCIO DE MELO VIADUTO DA UFRN
+RUA ENGENHEIRO CLÓVIS ARAGÃO BR 101
+AV. DOUTOR JOÃO MEDEIROS FILHO RUA CORONEL NORTON CHAVES
+TÚNEL ULISSES DE GÓIS AV. LIMA E SILVA
+AV BACHAREL TOMAZ LANDIM RUA MORAIS NAVARRO
+PONTE DE IGAPÓ AV MIGUEL CASTRO
+AV. FELIZARDO FIRMINO MOURA RUA DOS POTIGUARES
+RUA JANDIRA AV. JERÔNIMO CÂMARA
+RUA DOUTOR MÁRIO NEGÓCIO AV. CORONEL ESTEVAM
+AV. INDUSTRIAL JOÃO FRANCISCO DA MOTA AV. CAPITÃO-MOR GOUVEIA
+AV. CAPITÃO-MOR GOUVEIA AV. INDUSTRIAL JOÃO FRANCISCO DA MOTA
+AV. INTERVENTOR MÁRIO CÂMARA TÚNEL DA URBANA
+AV AMINTAS BARROS RUA DOUTOR MÁRIO NEGÓCIO
+AV. PRUDENTE DE MORAIS AV. FELIZARDO FIRMINO MOURA
+AV. LIMA E SILVA PONTE DE IGAPÓ
+BR 101 AV BACHAREL TOMAZ LANDIM
+VIADUTO DE PONTA NEGRA AV. DOUTOR JOÃO MEDEIROS FILHO
+AV. ENGENHEIRO ROBERTO FREIRE RUA FRANCISCO IVO
+RUA TENENTE EVERALDO BORGES DE MOURA (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 22,30 22,30 44,60
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 22,30 22,30 44,60
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=bea7eb93251eb0205a711ee37854cbf1&param2=16022425&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 17/06/2026 às 16:06:54 fls. 153
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=8eda94f63fba22642f375c1283c46a8a&param2=16022751&param3=1626985
+Documento assinado em 17/06/2026 às 16:27:00 fls. 153
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+17/06/2026 às 15:43:50
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0089/2026
+LINHA N-08 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 1A1 05:05 0 min min
+2 2A1 05:40 35 min
+3 3A1 06:10 30 min
+4 4A1 06:40 30 min
+5 1A2 07:15 35 min
+6 2A2 07:50 35 min
+7 3A2 08:25 35 min
+8 4A2 08:55 30 min
+9 5A1 09:25 30 min
+10 1A3 09:55 30 min
+11 2A3 10:30 35 min
+12 3A3 11:05 35 min
+13 5A2 11:35 30 min
+14 4A3 12:00 25 min
+15 1A4 12:30 30 min
+16 1A4 12:55 25 min
+17 3A4 13:30 35 min
+18 4A4 14:05 35 min
+19 5A3 14:40 35 min
+20 1B1 15:05 25 min
+21 2B1 15:35 30 min
+22 3B1 16:15 40 min
+23 5A4 16:50 35 min
+24 4B1 17:20 30 min
+25 1B2 17:50 30 min
+26 2B2 18:30 40 min
+27 3B2 19:15 45 min
+28 4B2 20:00 45 min
+29 1B3 20:30 30 min
+30 2B3 21:05 35 min
+31 REF 21:35 30 min
+32 3B3 22:10 35 min
+33 4B3 22:45 35 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 21/06/2026
+Natal(RN), quarta-feira, 17 de junho de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=bea7eb93251eb0205a711ee37854cbf1&param2=16022425&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 17/06/2026 às 16:06:54 fls. 154
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=8eda94f63fba22642f375c1283c46a8a&param2=16022751&param3=1626985
+Documento assinado em 17/06/2026 às 16:27:00 fls. 154

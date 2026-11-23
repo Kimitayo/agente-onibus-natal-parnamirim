@@ -1,0 +1,111 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+30/04/2026 às 14:54:04
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0071/2026
+LINHA N-60 - Domingo/Feriado (Alimentador)
+Empresa GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA Tempo de Viagem 45 min
+Linha - Nº e Nome N-60 - PAJUÇARA/SANTA CATARINA, VIA PARTAGE SHOPPING Vel. Média 20,53 km/h
+Início Vigência 03/05/2026 Km Morta 0,00
+Frota 2 Nº de Paradas 0
+Nº de Viagens 32,00 Data da Permissão 29/04/1991
+Extensão 15,40 Substitui a OS 0044/2026
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+AV. PIRASSUNUNGA (Terminal) RUA ILHÉUS
+AV. TOCANTÍNEA AV. GUADALUPE
+RUA MARQUÊS DE ABRANTES AV. DOUTOR JOÃO MEDEIROS FILHO
+RUA DOUTOR ARNALDO VIEIRA DE CARVALHO AV. ITAPETINGA
+RUA VISCONDE DE OURO PRETO AV. RIO DOCE
+RUA DOUTOR ANTONIO MACHADO ALCÂNTARA AV. TOCANTÍNEA
+RUA MARQUÊS DE ABRANTES RUA DOUTOR CARNEIRO RIBEIRO
+RUA PADRE MANOEL DA NÓBREGA RUA ESCRITOR GILBERTO AMADO
+RUA VISCONDE DE SABÓIA RUA DOUTOR ALVARO OZÓRIO DE ALMEIDA
+RUA BARÃO DE COCÁIS RUA DOUTOR GUILHERME DE ALMEIDA
+RUA DOUTOR ALVARO OZÓRIO DE ALMEIDA RUA VISCONDE DE SABÓIA
+RUA UBAIRA RUA PADRE MANOEL DA NÓBREGA
+RUA GENERAL SOLON RUA MARQUÊS DE ABRANTES
+RUA DOUTOR CARNEIRO RIBEIRO RUA BARÃO DE GRAJAÚ
+AV. TOCANTÍNEA RUA DOUTOR JÚLIO MESQUITA
+AV. RIO DOCE RUA DOUTOR ANTONIO MACHADO ALCÂNTARA
+AV. ITAPETINGA RUA VISCONDE DE OURO PRETO
+AV. DOUTOR JOÃO MEDEIROS FILHO RUA DOUTOR ARNALDO VIEIRA DE CARVALHO
+AV. MARANGUAPE RUA MARQUÊS DE ABRANTES
+RUA ILHÉUS AV. TOCANTÍNEA
+AV. PIRASSUNUNGA (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 7,70 7,70 15,40
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 7,70 7,70 15,40
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=2011aaee1b76550e5e45b5ade2f47902&param2=15545465&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:54:33 fls. 117
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=cd83d1a3aa39c0ac51c28efe0bbe00d6&param2=15545960&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:43 fls. 117
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+30/04/2026 às 14:54:04
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0071/2026
+LINHA N-60 - Domingo/Feriado (Alimentador)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 1A1 05:20 0 min min
+2 2A1 06:00 40 min
+3 1A2 06:40 40 min
+4 2A2 07:20 40 min
+5 1A3 08:00 40 min
+6 2A3 08:45 45 min
+7 1A4 09:35 50 min
+8 1A5 10:35 60 min
+9 2A4 11:20 45 min
+10 1A6 11:50 30 min
+11 2A5 12:20 30 min
+12 1A7 12:50 30 min
+13 2A6 13:20 30 min
+14 1A8 13:50 30 min
+15 2A7 14:20 30 min
+16 1B1 14:50 30 min
+17 2B1 15:20 30 min
+18 1B2 15:50 30 min
+19 2B2 16:20 30 min
+20 1B3 16:50 30 min
+21 2B3 17:20 30 min
+22 1B4 17:50 30 min
+23 2B4 18:20 30 min
+24 1B5 18:45 25 min
+25 2B5 19:20 35 min
+26 1B6 20:05 45 min
+27 2B6 20:40 35 min
+28 1B7 21:00 20 min
+29 2B7 21:30 30 min
+30 1B8 21:55 25 min
+31 2B8 22:20 25 min
+32 1B9 22:50 30 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 03/05/2026
+Natal(RN), quinta-feira, 30 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=2011aaee1b76550e5e45b5ade2f47902&param2=15545465&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 30/04/2026 às 14:54:33 fls. 118
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=cd83d1a3aa39c0ac51c28efe0bbe00d6&param2=15545960&param3=1626985
+Documento assinado em 30/04/2026 às 15:18:43 fls. 118

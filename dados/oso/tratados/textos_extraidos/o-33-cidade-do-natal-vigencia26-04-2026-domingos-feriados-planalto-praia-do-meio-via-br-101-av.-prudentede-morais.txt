@@ -1,0 +1,134 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+24/04/2026 às 21:27:50
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0047/2026
+LINHA O-33 - Domingo/Feriado (Convencional)
+Empresa TRANSPORTES CIDADE DO NATAL Tempo de Viagem 130 min
+Linha - Nº e Nome O-33 - PLANALTO/PRAIA DO MEIO/MÃE LUÍZA, VIA BR-101 Vel. Média 22,34 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 8 Nº de Paradas 0
+Nº de Viagens 36,00 Data da Permissão 22/08/1988
+Extensão 48,40 Substitui a OS 0097/2023
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal) RUA JOÃO XXIII
+RUA MIRA MANGUE RUA TRAIRI
+RUA MONTE REI AV HERMES DA FONSECA
+AV. DOS CAIAPÓS RUA CORONEL JOAQUIM MANOEL
+RUA SERRA DA JUREMA AV. NILO PEÇANHA
+RUA SERRA DOS CARAJÁS AV. PRUDENTE DE MORAIS
+RUA RIO GRAMAME AV LIMA E SILVA
+AV. RIO TAMANDUATEÍ BR 101
+RUA DAS ALGAROBAS RUA CIDADE DO SOL
+RUA DAS GAMELEIRAS RUA OITI
+RUA OITI AV. DOS XAVANTES
+RUA CIDADE DO SOL RUA RIO TATUAPÉ
+BR 101 AV. RIO TAMANDUATEÍ
+VIADUTO DA UFRN RUA SERRA DA JUREMA
+BR 101 RUA MONTE REI
+VIADUTO DO 4º CENTENÁRIO RUA MIRA MANGUE
+AV LIMA E SILVA RUA PARACATI
+AV. PRUDENTE DE MORAIS RUA RAINHA DO MAR
+AV. NILO PEÇANHA RUA ENGENHEIRO JOÃO HÉLIO ALVES ROCHA (Terminal)
+RUA GENERAL GUSTAVO CORDEIRO DE FARIAS
+PRAÇA CAPITÃO JOSÉ DA PENHA
+RUA GENERAL GLICÉRIO
+RUA ALMINO AFONSO
+RUA PEREIRA SIMÕES
+RUA DO AREAL
+RUA PEDRO AFONSO
+RUA RODRIGUES DIAS
+RUA TULIO FERNANDES
+AV. 25 DE DEZEMBRO
+RUA DO MOTOR
+RUA FABRICIO PEDROZA
+AV GOVERNADOR SILVIO PEDROZA
+AV. SENADOR DINARTE DE MEDEIROS MARIZ
+RUA JOÃO XXIII
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 24,20 24,20 48,40
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 24,20 24,20 48,40
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=926b785af3ee0f97b585b79e76827230&param2=15483777&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 21:42:24 fls. 6
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=42391ae1bf75070091bfc1eb29617010&param2=15483819&param3=1626985
+Documento assinado em 24/04/2026 às 22:00:42 fls. 6
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=6d515e4db4dadd3c98a3d245469a4e28&param2=15483908&param3=1626985
+Documento assinado em 24/04/2026 às 22:29:19 fls. 6
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+24/04/2026 às 21:27:50
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0047/2026
+LINHA O-33 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 04:35 0 min min
+2 A2 05:00 25 min
+3 A3 05:25 25 min
+4 A4 05:50 25 min
+5 A5 06:10 20 min
+6 A6 06:30 20 min
+7 A1 06:55 25 min
+8 A2 07:20 25 min
+9 A3 07:50 30 min
+10 A8 08:20 30 min
+11 A6 08:50 30 min
+12 A9 09:20 30 min
+13 A5 09:50 30 min
+14 A1 10:15 25 min
+15 A2 10:40 25 min
+16 A8 11:10 30 min
+17 A3 11:35 25 min
+18 A4 12:00 25 min
+19 A5 12:20 20 min
+20 B1 12:40 20 min
+21 A6 13:00 20 min
+22 A7 13:25 25 min
+23 B2 13:50 25 min
+24 B3 14:15 25 min
+25 B4 14:40 25 min
+26 B1 15:05 25 min
+27 A8 15:30 25 min
+28 A7 15:55 25 min
+29 B2 16:20 25 min
+30 B3 16:50 30 min
+31 B4 17:20 30 min
+32 A8 17:55 35 min
+33 B1 18:45 50 min
+34 B2 19:40 55 min
+35 B3 20:30 50 min
+36 B4 21:20 50 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+Natal(RN), sexta-feira, 24 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=926b785af3ee0f97b585b79e76827230&param2=15483777&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 21:42:24 fls. 7
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=42391ae1bf75070091bfc1eb29617010&param2=15483819&param3=1626985
+Documento assinado em 24/04/2026 às 22:00:42 fls. 7
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=6d515e4db4dadd3c98a3d245469a4e28&param2=15483908&param3=1626985
+Documento assinado em 24/04/2026 às 22:29:19 fls. 7

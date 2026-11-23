@@ -1,0 +1,115 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+24/04/2026 às 21:21:49
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0046/2026
+LINHA N-84 - Domingo/Feriado (Convencional)
+Empresa GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA Tempo de Viagem 75 min
+Linha - Nº e Nome N-84 - SOLEDADE/PETRÓPOLIS, VIA AV. MOEMA T. DA C. LIMA Vel. Média 26,32 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 3 Nº de Paradas 0
+Nº de Viagens 21,00 Data da Permissão 21/11/2007
+Extensão 32,90 Substitui a OS 0189/2024
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+TERMINAL DE INTEGRAÇÃO (Terminal) AV. PRUDENTE DE MORAIS
+RUA PALMEIRAS RUA GENERAL GUSTAVO CORDEIRO DE FARIAS
+RUA JEQUIRIÇÁ PRAÇA CAPITÃO JOSÉ DA PENHA
+AV. PICO DO CABUGI RUA GENERAL GLICERIO
+RUA PORTO DE ILHÉUS AV. DUQUE DE CAXIAS
+RUA PLANALTO MERIDIONAL RUA SÃO JOÃO DE DEUS
+RUA PLANALTO CENTRAL RUA CORONEL FLAMÍNIO
+AV. ATOL DAS ROCAS AV. PRESIDENTE CAFÉ FILHO
+RUA LAGOA ARARUAMA PONTE NEWTON NAVARRO
+RUA ILHA DE SÃO PAULO RUA CONSELHEIRO TRISTÃO
+RUA BAIA DE SÃO JOSÉ AV. MOEMA TINOCO DA CUNHA LIMA
+AV. RIO DOCE AV. TOCANTÍNEA
+AV. TOCANTÍNEA AV. RIO DOCE
+AV. MOEMA TINOCO DA CUNHA LIMA RUA BAIA DE SÃO JOSÉ
+AV. ESTRADA DOS MARES RUA ILHA DE SÃO PAULO
+AV. MOEMA TINOCO DA CUNHA LIMA RUA LAGOA ARARUAMA
+RUA CONSELHEIRO TRISTÃO AV. ATOL DAS ROCAS
+PONTE NEWTON NAVARRO RUA PLANALTO CENTRAL
+AV. PRESIDENTE CAFÉ FILHO RUA PLANALTO MERIDIONAL
+RUA PROFESSOR JOSÉ MELQUÍADES RUA PORTO DE ILHÉUS
+RUA CORONEL FLAMÍNIO AV. PICO DO CABUGI
+RUA SÃO JOÃO DE DEUS RUA JEQUIRIÇÁ
+AV. ENGENHEIRO HILDEBRANDO DE GOIS RUA PALMEIRAS
+TRAVESSA SÃO PEDRO TERMINAL DE INTEGRAÇÃO (Terminal)
+AV. DUQUE DE CAXIAS
+AV. CÂMARA CASCUDO
+RUA PADRE JOÃO MANOEL
+RUA ULISSES CALDAS
+RUA MOSSORÓ
+AV. PRUDENTE DE MORAIS
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 16,45 16,45 32,90
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 16,45 16,45 32,90
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=df15a1c2e11109438aca18236dd2cbcb&param2=15483775&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 21:41:30 fls. 4
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=5323a097b0925656c99b8977204005f3&param2=15483837&param3=1626985
+Documento assinado em 24/04/2026 às 22:00:59 fls. 4
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=769ac1255b4ef6b43e030fb6f2abffbf&param2=15483900&param3=1626985
+Documento assinado em 24/04/2026 às 22:28:12 fls. 4
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+24/04/2026 às 21:21:49
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0046/2026
+LINHA N-84 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 1A1 05:30 0 min min
+2 2A1 06:15 45 min
+3 1A2 07:00 45 min
+4 2A2 07:45 45 min
+5 1A3 08:30 45 min
+6 2A3 09:15 45 min
+7 3A1 10:00 45 min
+8 1A4 10:45 45 min
+9 3A2 11:30 45 min
+10 2A4 12:15 45 min
+11 3A3 13:00 45 min
+12 2A5 13:45 45 min
+13 1B1 14:30 45 min
+14 2B1 15:15 45 min
+15 3A4 16:00 45 min
+16 1B2 16:45 45 min
+17 2B2 17:30 45 min
+18 1B3 18:15 45 min
+19 2B3 19:00 45 min
+20 1B4 19:45 45 min
+21 2B4 20:25 40 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+Natal(RN), sexta-feira, 24 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=df15a1c2e11109438aca18236dd2cbcb&param2=15483775&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 21:41:30 fls. 5
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=5323a097b0925656c99b8977204005f3&param2=15483837&param3=1626985
+Documento assinado em 24/04/2026 às 22:00:59 fls. 5
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=769ac1255b4ef6b43e030fb6f2abffbf&param2=15483900&param3=1626985
+Documento assinado em 24/04/2026 às 22:28:12 fls. 5

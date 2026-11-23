@@ -1,0 +1,1030 @@
+﻿numero_oso;linha;empresa;vigencia;sequencia;codigo_tabela;tipo_viagem;saida_terminal;frequencia_min;bloco;pagina_quadro;status_registro;campos_faltantes;arquivo_origem;fonte;prioridade_fonte
+0002/2026;309;LINHA OPCIONAL;26/04/2026;1;A1;;05:30;0;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;2;A2;;06:00;30;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;3;A1;;06:25;25;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;4;A2;;06:50;25;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;5;A1;;07:15;25;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;6;A2;;07:50;35;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;7;A2;;08:40;50;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;8;A1;;09:15;35;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;9;A1;;10:00;45;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;10;A2;;10:30;30;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;11;A1;;11:00;30;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;12;A2;;11:30;30;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;13;A1;;12:00;30;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;14;A2;;12:30;30;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;15;A1;;13:00;30;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;16;A3;;13:25;25;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;17;A2;;13:50;25;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;18;A3;;14:20;30;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;19;A3;;15:10;50;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;20;A3;;16:00;50;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;21;A3;;16:50;50;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;22;A3;;17:40;50;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;23;A3;;19:30;110;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0002/2026;309;LINHA OPCIONAL;26/04/2026;24;A3;;20:30;60;Bloco 1;2;OK;;309-opcional-vigencia-26-04-2026-domingos-feriados-redinha-igapo-via-partage-shopping.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;1;A1;;05:00;0;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;2;B1;;05:40;40;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;3;A1;;06:20;40;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;4;B1;;07:00;40;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;5;A1;;07:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;6;B1;;08:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;7;A1;;08:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;8;B1;;09:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;9;A1;;09:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;10;B1;;10:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;11;A1;;10:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;12;B1;;11:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;13;A1;;11:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;14;B1;;12:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;15;A2;;12:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;16;B2;;13:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;17;A2;;13:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;18;B2;;14:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;19;A2;;14:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;20;B2;;15:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;21;A2;;15:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;22;B2;;16:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;23;A2;;16:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;24;B2;;17:00;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;25;A2;;17:30;30;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;26;B2;;18:10;40;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;27;A2;;19:00;50;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;28;B2;;19:49;50;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0013/2026;557;LINHA OPCIONAL;20/06/2026;29;A2;;20:40;50;Bloco 1;2;OK;;557_dom_20-06-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;1;A1;;06:30;0;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;2;A1;;07:30;60;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;3;A2;;08:00;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;4;A1;;08:30;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;5;A2;;09:00;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;6;A1;;09:30;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;7;A2;;10:00;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;8;A3;;10:30;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;9;A2;;11:00;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;10;A3;;11:30;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;11;A1;;12:00;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;12;Q3;;12:30;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;13;A1;;13:00;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;14;A2;;13:30;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;15;A1;;14:00;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;16;A2;;14:30;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;17;A3;;15:00;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;18;A2;;15:30;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;19;A3;;16:00;30;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;20;A3;;17:00;60;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;21;A3;;18:00;60;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0004/2026;582;LINHA OPCIONAL;26/04/2026;22;A3;;19:00;60;Bloco 1;2;OK;;582-opc_dom_26-04-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;1;A1;;05:30;0;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;2;A1;;06:10;40;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;3;A1;;06:45;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;4;A1;;07:20;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;5;A1;;07:55;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;6;A1;;09:25;90;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;7;A1;;10:00;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;8;A1;;10:35;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;9;A1;;11:10;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;10;A1;;11:45;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;11;A1;;12:20;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;12;A1;;12:55;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;13;A1;;13:30;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;14;B1;;14:05;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;15;B1;;14:40;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;16;B1;;15:15;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;17;B1;;15:50;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;18;B1;;17:20;90;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;19;B1;;17:55;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;20;B1;;18:30;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;21;B1;;19:05;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;22;B1;;19:40;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;23;B1;;20:15;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;24;B1;;20:50;35;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0008/2026;583;LINHA OPCIONAL;03/05/2026;25;B1;;21:45;55;Bloco 1;2;OK;;583-opc_dom_03-05-2026.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;1;A1;;05:30;0;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;2;A2;;06:00;30;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;3;A1;;06:25;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;4;A2;;06:50;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;5;A1;;07:15;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;6;A2;;07:40;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;7;A1;;08:05;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;8;A2;;08:30;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;9;A1;;08:55;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;10;A2;;09:20;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;11;A3;;09:45;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;12;A2;;10:10;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;13;A3;;10:35;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;14;A1;;11:00;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;15;A3;;11:25;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;16;A1;;11:50;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;17;A3;;12:15;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;18;A1;;12:40;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;19;A2;;13:00;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;20;A4;;13:25;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;21;A2;;13:50;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;22;A4;;14:10;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;23;A5;;14:30;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;24;A3;;14:50;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;25;A4;;15:10;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;26;A5;;15:30;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;27;A3;;15:50;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;28;A4;;16:10;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;29;A3;;16:40;30;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;30;A4;;17:00;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;31;A5;;17:20;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;32;A3;;17:40;20;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;33;A5;;18:15;35;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;34;A4;;18:50;35;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;35;A5;;19:20;30;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;36;A4;;19:45;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;37;A5;;20:10;25;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;38;A4;;20:40;30;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;39;A5;;21:15;35;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0077/2026;584;TRANSFLOR LTDA;03/05/2026;40;A5;;22:10;55;Bloco 1;2;OK;;584-transflor-vigencia-26-04-2026-domingos-feriados-pirangi-mirassol-via-br-101.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;1;A1;;05:00;0;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;2;A1;;05:25;25;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;3;A1;;05:50;25;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;4;A1;;06:15;25;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;5;A1;;06:40;25;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;6;A1;;07:05;25;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;7;A1;;07:35;30;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;8;A1;;09:30;115;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;9;A1;;10:00;30;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;10;A1;;10:30;30;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;11;A1;;11:00;30;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;12;A1;;11:30;30;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;13;A1;;12:00;30;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;14;A1;;12:30;30;Bloco 1;2;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;1;B1;;13:50;0;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;2;B1;;14:15;25;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;3;B1;;14:30;15;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;4;B1;;15:00;30;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;5;B1;;16:50;110;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;6;B1;;17:15;25;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;7;B1;;17:55;40;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;8;B1;;18:25;30;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;9;B1;;18:55;30;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;10;B1;;19:15;20;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;11;B1;;19:55;40;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;12;B1;;20:55;60;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0063/2025;585;AUTO ÔNIBUS SANTA MARIA LTDA;18/04/2025;13;B1;;22:10;75;Bloco 1;4;OK;;585-santa-maria-cidade-do-natal-vigencia-18-04-2025-domingos-feriados-terminal-planalto-village-de-prata.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;1;1A1;;06:35;0;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;2;1A2;;07:30;55;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;3;1A3;;08:25;55;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;4;1A4;;09:50;85;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;5;1A5;;10:45;55;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;6;1A6;;11:40;55;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;7;1B1;;12:40;60;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;8;1B2;;13:40;60;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;9;1B3;;14:40;60;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;10;1B4;;16:10;90;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;11;1B5;;17:10;60;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0023/2023;593;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;12/08/2023;12;1B6;;18:20;70;Bloco 1;2;OK;;593-guanabara-vigencia-12-08-2023-sabados-domingos-feriados-circular-residencial-redinha.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;1;1A1;;05:20;0;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;2;2A1;;06:00;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;3;1A2;;06:40;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;4;2A2;;07:20;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;5;1A3;;08:00;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;6;2A3;;08:40;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;7;1A4;;09:20;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;8;2A4;;10:00;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;9;1A5;;10:40;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;10;2A5;;11:20;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;11;1A6;;12:00;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;12;2A6;;12:40;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;13;1A7;;13:20;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;14;2A7;;14:00;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;15;1B1;;14:40;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;16;2B1;;15:20;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;17;1B2;;16:00;40;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;18;2B2;;16:30;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;19;1B3;;17:00;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;20;2B3;;17:30;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;21;1B4;;18:00;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;22;2B4;;18:50;50;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;23;1B5;;19:20;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;24;2B5;;19:50;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;25;1B6;;20:20;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;26;2B6;;20:50;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;27;1B7;;21:20;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;28;2B7;;21:50;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;29;1B8;;22:20;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0080/2026;597;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;10/05/2026;30;2B8;;22:50;30;Bloco 1;2;OK;;597_dom-gua_10-05-2025.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;1;A1;;06:20;0;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;2;A2;;07:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;3;A1;;08:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;4;A2;;09:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;5;A1;;10:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;6;A2;;11:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;7;B1;;12:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;8;B2;;13:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;9;A1;;14:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;10;A2;;15:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;11;B1;;16:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;12;B2;;17:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;13;B1;;18:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;14;B2;;19:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;15;B1;;20:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0067/2026;599;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;16;B2;;21:20;60;Bloco 1;2;OK;;599-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-mirassol-via-av.-cap.-mor-gouveia.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;1;A1;;06:00;0;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;2;A2;;06:30;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;3;A1;;07:00;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;4;A2;;07:30;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;5;A1;;08:00;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;6;A2;;08:30;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;7;A1;;09:00;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;8;A2;;09:30;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;9;A3;;10:00;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;10;A2;;10:30;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;11;A3;;11:00;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;12;A1;;11:25;25;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;13;A3;;11:55;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;14;A1;;12:20;25;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;15;A2;;12:45;25;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;16;A4;;13:10;25;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;17;A1;;13:35;25;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;18;A2;;14:00;25;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;19;A4;;14:25;25;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;20;A3;;14:50;25;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;21;A4;;15:20;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;22;A3;;15:50;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;23;A4;;16:20;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;24;A3;;16:50;30;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;25;A3;;17:50;60;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;26;A4;;18:50;60;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;27;A4;;19:50;60;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0009/2026;600;LINHA OPCIONAL;10/05/2026;28;A4;;21:05;75;Bloco 1;2;OK;;600-opc_dom_10-05-2026.pdf;STTU - OSO;ALTA
+0006/2026;A;LINHA OPCIONAL;26/04/2026;1;C1;;00:00;0;Bloco 1;2;OK;;corujao-a-opcional-vigencia26-04-2026-domingos-feriados-ribeira-petropolis-praia-do-meio-zona-norte.pdf;STTU - OSO;ALTA
+0006/2026;A;LINHA OPCIONAL;26/04/2026;2;C1;;01:40;100;Bloco 1;2;OK;;corujao-a-opcional-vigencia26-04-2026-domingos-feriados-ribeira-petropolis-praia-do-meio-zona-norte.pdf;STTU - OSO;ALTA
+0018/2023;E;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;14/08/2023;1;1;;00:30;0;Bloco 1;2;OK;;corujao-e-conceicao-vigencia-14-08-2023-dias-uteis-sabados-domingos-feriados-felipe-camarao-cidade-da-esperanca-ponta-negra.pdf;STTU - OSO;ALTA
+0018/2023;E;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;14/08/2023;2;1;;02:30;120;Bloco 1;2;OK;;corujao-e-conceicao-vigencia-14-08-2023-dias-uteis-sabados-domingos-feriados-felipe-camarao-cidade-da-esperanca-ponta-negra.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;1;A1;MI;04:55;0;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;2;A2;MI;05:20;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;3;A3;MI;05:20;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;4;A1;;05:25;5;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;5;A4;MI;05:50;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;6;A3;;05:50;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;7;A2;;06:15;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;8;A4;;06:40;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;9;A1;;07:05;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;10;A3;;07:35;30;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;11;A2;;08:00;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;12;A5;MI;08:05;5;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;13;A4;;08:30;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;14;A5;;09:10;40;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;15;A1;;09:50;40;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;16;A3;;10:20;30;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;17;A2;;10:45;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;18;A4;;11:15;30;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;19;A1;;11:40;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;20;A3;MF;12:00;20;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;21;A5;;12:20;20;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;22;A2;;12:40;20;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;23;A4;MF;13:05;25;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;24;B1;;13:40;35;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;25;A5;;14:20;40;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;26;B2;;14:50;30;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;27;B1;;15:25;35;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;28;A5;MF;16:00;35;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;29;B2;;16:40;40;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;30;B1;;17:25;45;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;31;B2;;18:25;60;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;32;C1;;19:25;60;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;33;B1;;20:15;50;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;34;C1;;21:05;50;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0042/2026;L-46;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;35;B2;;22:00;55;Bloco 1;2;OK;;l-46-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-via-costeira.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;1;A1;MI;05:15;0;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;2;A2;MI;06:00;45;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;3;A1;;06:00;45;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;4;A2;;07:00;60;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;5;A1;;08:00;60;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;6;A2;;09:00;60;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;7;A3;;09:55;55;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;8;A1;;10:55;60;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;9;A3;;11:40;45;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;10;A2;;12:20;40;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;11;A1;MF;13:00;40;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;12;A4;;14:00;60;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;13;A3;;15:00;60;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;14;A4;;16:00;60;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;15;A3;;17:00;60;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;16;A4;;18:45;105;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0045/2026;L-54;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;17;A4;;20:35;110;Bloco 1;2;OK;;l-54-transnacional-vigencia-26-04-2026-domingos-feriados-rocas-pontanegra-via-alecrim.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;1;A1;MI;06:15;0;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;2;A2;;06:15;0;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;3;A1;;07:00;45;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;4;A2;;07:45;45;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;5;A1;;08:35;50;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;6;A2;;09:35;60;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;7;A3;;10:35;60;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;8;A1;;11:35;60;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;9;A3;;12:20;45;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;10;A2;;12:55;35;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;11;A1;MF;13:30;35;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;12;A4;;14:25;55;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;13;A3;;15:25;60;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;14;A4;;16:00;35;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;15;A3;;17:00;60;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;16;A4;;18:00;60;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;17;A3;MF;19:00;60;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0007/2026;L-56;LINHA OPCIONAL;03/05/2026;18;A4;;21:10;130;Bloco 1;2;OK;;l-56-opcional-vigencia-26-04-2026-domingos-feriados-rocas-ponta-negra-via-via-costeira.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;1;1A1;;05:25;0;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;2;2A1;;06:05;40;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;3;3A1;;06:45;40;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;4;1A2;;07:25;40;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;5;2A2;;08:05;40;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;6;3A2;;08:45;40;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;7;1A3;;09:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;8;2A3;;10:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;9;3A3;;11:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;10;2A4;;12:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;11;3A4;;13:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;12;1B1;;14:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;13;3A5;;15:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;14;2B1;;16:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;15;1B2;;17:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;16;2B2;;18:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;17;1B3;;19:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;18;2B3;;20:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0057/2026;N-02;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;19;1B4;;21:45;60;Bloco 1;2;OK;;n-02-guanabara-vigencia-26-04-2026-domingos-feriados-gramore-cri-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;1;A1;;05:10;0;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;2;A2;;05:50;40;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;3;A1;;06:40;50;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;4;A2;;07:25;45;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;5;A1;;08:10;45;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;6;A2;;08:50;40;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;7;D1;;09:40;50;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;8;A2;;10:20;40;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;9;A1;;11:05;45;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;10;D1;;11:50;45;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;11;A1;;12:30;40;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;12;A2;;13:10;40;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;13;B1;;14:00;50;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;14;D1;;14:40;40;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;15;B2;;15:20;40;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;16;B1;;16:00;40;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;17;D1;;16:40;40;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;18;B2;;17:40;60;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;19;B1;;18:40;60;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;20;B2;;19:40;60;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;21;B1;;20:40;60;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;22;B2;;21:40;60;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0043/2026;N-04;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;23;B1;;22:40;60;Bloco 1;2;OK;;n-04-guanabara-vigencia-26-04-2026-domingos-feriados-amarante-morro-branco-via-midway-mall.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;1;A1;;04:45;0;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;2;A2;;05:15;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;3;A3;;05:45;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;4;A1;;06:15;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;5;A2;;06:45;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;6;A3;;07:15;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;7;A1;;07:45;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;8;A2;;08:15;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;9;A3;;08:45;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;10;A4;;09:30;45;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;11;A1;;10:15;45;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;12;A2;;10:45;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;13;A4;;11:15;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;14;A1;;11:40;25;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;15;A3;;12:00;20;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;16;A2;;12:20;20;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;17;A5;;12:45;25;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;18;A6;;13:20;35;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;19;A3;;13:45;25;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;20;A5;;14:15;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;21;A4;;14:45;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;22;A6;;15:15;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;23;A5;;15:45;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;24;A4;;16:15;30;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;25;A6;;16:50;35;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;26;A4;;17:45;55;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;27;A5;;18:45;60;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;28;A6;;19:45;60;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;29;A5;;20:35;50;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0063/2026;N-07;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;30;A6;;21:25;50;Bloco 1;2;OK;;n-07_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;1;1A1;;05:05;0;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;2;2A1;;05:40;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;3;3A1;;06:10;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;4;4A1;;06:40;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;5;1A2;;07:15;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;6;2A2;;07:50;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;7;3A2;;08:25;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;8;4A2;;08:55;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;9;5A1;;09:25;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;10;1A3;;09:55;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;11;2A3;;10:30;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;12;3A3;;11:05;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;13;5A2;;11:35;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;14;4A3;;12:00;25;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;15;1A4;;12:30;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;16;1A4;;12:55;25;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;17;3A4;;13:30;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;18;4A4;;14:05;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;19;5A3;;14:40;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;20;1B1;;15:05;25;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;21;2B1;;15:35;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;22;3B1;;16:15;40;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;23;5A4;;16:50;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;24;4B1;;17:20;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;25;1B2;;17:50;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;26;2B2;;18:30;40;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;27;3B2;;19:15;45;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;28;4B2;;20:00;45;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;29;1B3;;20:30;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;30;2B3;;21:05;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;31;REF;;21:35;30;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;32;3B3;;22:10;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0089/2026;N-08;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;33;4B3;;22:45;35;Bloco 1;2;OK;;n-08_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;1;1A1;;05:35;0;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;2;2A1;;06:25;50;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;3;1A2;;07:20;55;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;4;3A1;;08:05;45;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;5;2A2;;09:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;6;3A2;;10:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;7;1A3;;11:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;8;2A3;;12:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;9;3A3;;13:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;10;1B1;;14:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;11;2B1;;15:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;12;3A4;;16:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;13;1B2;;17:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;14;2B2;;18:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;15;1B3;;19:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0181/2024;N-15;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;06/10/2024;16;2B3;;20:05;60;Bloco 1;2;OK;;n-15-guanabara-vigencia-06-10-2024-domingos-feriados-pajucara-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;1;A1;;05:00;0;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;2;A2;;05:30;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;3;A3;;06:00;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;4;A1;;06:30;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;5;A2;;07:00;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;6;A3;;07:30;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;7;A1;;08:00;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;8;A2;;08:30;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;9;A3;;09:00;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;10;A4;;09:45;45;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;11;A1;;10:30;45;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;12;A2;;11:00;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;13;A4;;11:30;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;14;A1;;11:55;25;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;15;A3;;12:15;20;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;16;A2;;12:35;20;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;17;A5;;13:00;25;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;18;A6;;13:35;35;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;19;A3;;14:00;25;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;20;A5;;14:30;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;21;A4;;15:00;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;22;A6;;15:30;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;23;A5;;16:00;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;24;A4;;16:30;30;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;25;A6;;17:05;35;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;26;A4;;18:00;55;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;27;A5;;19:00;60;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;28;A6;;20:00;60;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;29;A5;;20:50;50;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0062/2026;N-29;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;30;A6;;21:40;50;Bloco 1;2;OK;;n-29_dom-trn_26-04-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;1;A1;;05:10;0;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;2;A1;;07:15;125;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;3;A4;;09:30;135;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;4;A1;;10:15;45;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;5;A4;;11:45;90;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;6;A4;;12:25;40;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;7;B1;;14:35;130;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;8;A4;;16:00;85;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;9;B1;;18:00;120;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;10;B1;;20:00;120;Bloco 1;2;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;1;A2;;06:10;0;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;2;A3;;06:45;35;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;3;A2;;08:15;90;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;4;A3;;08:55;40;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;5;A2;;11:15;140;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;6;A3;;12:55;100;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;7;A5;;13:55;60;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;8;A3;;15:00;65;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;9;A5;;17:00;120;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;10;A5;;19:00;120;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0128/2026;N-43;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;09/08/2026;11;A5;;21:00;120;Bloco 1;4;OK;;n-43-dom_09-08-2026.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;1;1A1;;05:20;0;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;2;2A1;;06:00;40;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;3;1A2;;06:40;40;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;4;2A2;;07:20;40;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;5;1A3;;08:00;40;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;6;2A3;;08:45;45;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;7;1A4;;09:35;50;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;8;1A5;;10:35;60;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;9;2A4;;11:20;45;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;10;1A6;;11:50;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;11;2A5;;12:20;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;12;1A7;;12:50;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;13;2A6;;13:20;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;14;1A8;;13:50;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;15;2A7;;14:20;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;16;1B1;;14:50;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;17;2B1;;15:20;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;18;1B2;;15:50;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;19;2B2;;16:20;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;20;1B3;;16:50;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;21;2B3;;17:20;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;22;1B4;;17:50;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;23;2B4;;18:20;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;24;1B5;;18:45;25;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;25;2B5;;19:20;35;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;26;1B6;;20:05;45;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;27;2B6;;20:40;35;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;28;1B7;;21:00;20;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;29;2B7;;21:30;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;30;1B8;;21:55;25;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;31;2B8;;22:20;25;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0071/2026;N-60;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;03/05/2026;32;1B9;;22:50;30;Bloco 1;2;OK;;n-60-guanabara-vigencia-26-04-2026-domingos-feriados-pajucara-santa-catarina-via-partage-shopping.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;1;1A1;;05:35;0;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;2;2A1;;06:25;50;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;3;3A1;;07:15;50;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;4;1A2;;08:05;50;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;5;2A2;;08:55;50;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;6;3A2;;09:45;50;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;7;1A3;;10:35;50;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;8;2A3;;11:30;55;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;9;3A3;;12:25;55;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;10;1B1;;13:05;40;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;11;2B1;;13:55;50;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;12;3B1;;14:45;50;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;13;1B2;;15:35;50;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;14;2B2;;16:30;55;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;15;3B2;;17:25;55;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;16;1B3;;18:20;55;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;17;2B3;;19:15;55;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0050/2026;N-64;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;18;3B3;;20:10;55;Bloco 1;2;OK;;n-64-guanabara-vigencia-26-04-2026-domingos-feriados-nova-natal-ribeira-via-petropolis.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;1;1A1;;04:50;0;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;2;2A1;;05:30;40;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;3;3A1;;06:10;40;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;4;1A2;;06:45;35;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;5;2A2;;07:25;40;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;6;3A2;;08:10;45;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;7;4A1;;08:50;40;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;8;1A3;;09:25;35;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;9;2A3;;10:00;35;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;10;4A2;;10:40;40;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;11;3A3;;11:05;25;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;12;1A4;;11:25;20;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;13;2A4;;12:10;45;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;14;3A4;;12:50;40;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;15;1B1;;13:15;25;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;16;4A3;;13:50;35;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;17;2B1;;14:35;45;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;18;1B2;;15:20;45;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;19;4A4;;16:15;55;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;20;2B2;;17:15;60;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;21;B13;;18:05;50;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;22;2B3;;19:05;60;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;23;1B4;;20:00;55;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0086/2026;N-72;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;24/05/2026;24;2B4;;21:00;60;Bloco 1;2;OK;;n-72_dom-gua_24-05-2026.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;1;A1;;04:30;110;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;2;A2;;04:50;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;3;A3;;05:05;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;4;A4;;05:20;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;5;A5;;05:35;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;6;A6;;05:50;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;7;A7;;06:05;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;8;A8;;06:20;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;9;A1;;06:35;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;10;A2;;06:55;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;11;A3;;07:15;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;12;A4;;07:35;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;13;A5;;07:55;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;14;A7;;08:20;25;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;15;A8;;08:45;25;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;16;A6;;09:15;30;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;17;A1;;09:45;30;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;18;A2;;10:10;25;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;19;A3;;10:30;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;20;A4;;10:50;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;21;A9;;11:10;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;22;A5;;11:30;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;23;A6;;11:50;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;24;A10;;12:05;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;25;A7;;12:20;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;26;A8;;12:40;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;27;A11;;13:00;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;28;A12;;13:15;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;29;A13;;13:30;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;30;A14;;13:45;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;31;A15;;14:05;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;32;A16;;14:25;20;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;33;A9;;14:40;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;34;A17;;14:55;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;35;A18;;15:10;15;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;36;A11;;15:24;14;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;37;A10;;15:37;13;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;38;A19;;15:50;13;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;39;A13;;16:02;12;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;40;A14;;16:15;13;Bloco 1;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;41;A15;;16:29;14;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;42;A12;;16:43;14;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;43;A16;;16:58;15;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;44;A9;;17:13;15;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;45;A17;;17:28;15;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;46;A18;;17:45;17;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;47;A10;;18:05;20;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;48;A19;;18:25;20;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;49;A11;;18:50;25;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;50;A12;;19:15;25;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;51;A13;;19:40;25;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;52;A14;;20:05;25;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;53;A15;;20:30;25;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;54;A20;;20:50;20;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;55;A16;;21:10;20;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;56;A17;;21:30;20;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;57;A18;;21:55;25;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;58;A19;;22:35;40;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;59;A20;;00:40;0;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0074/2026;N-73;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;03/05/2026;60;A20;;02:40;120;Bloco 2;2;OK;;n-73-transnacional-vigencia-31-12-2023-domingos-feriados-santarem-ponta-negra-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;1;1A1;;05:05;0;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;2;2A1;;05:40;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;3;3A1;;06:15;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;4;1A2;;06:50;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;5;2A2;;07:25;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;6;3A2;;08:00;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;7;1A3;;08:35;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;8;2A3;;09:10;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;9;3A3;;09:45;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;10;4A1;;10:20;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;11;1A4;;10:55;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;12;2A4;;11:30;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;13;4A2;;12:05;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;14;3A4;;12:35;30;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;15;2A5;;13:15;40;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;16;4A3;;13:50;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;17;3A5;;14:15;25;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;18;1B1;;14:45;30;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;19;2B1;;15:25;40;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;20;3B1;;16:05;40;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;21;1B2;;16:35;30;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;22;4A4;;17:10;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;23;2B2;;17:45;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;24;1B3;;18:20;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;25;4A5;;18:55;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;26;3B2;;19:30;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;27;2B3;;20:05;35;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;28;1B4;;20:45;40;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;29;3B3;;21:15;30;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;30;2B4;;22:00;45;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0090/2026;N-77;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;31;3B4;;22:45;45;Bloco 1;2;OK;;n-77_dom-gua_20-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;1;1A1;;05:05;0;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;2;2A1;;05:30;25;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;3;1A2;;05:50;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;4;3A1;;06:10;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;5;2A2;;06:30;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;6;1A3;;06:50;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;7;3A2;;07:10;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;8;2A3;;07:30;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;9;1A4;;07:50;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;10;3A3;;08:10;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;11;2A4;;08:30;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;12;1A5;;08:50;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;13;3A4;;09:10;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;14;2A5;;09:30;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;15;1A6;;09:45;15;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;16;3A5;;10:15;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;17;4B1;;10:55;40;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;18;1A7;;11:25;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;19;2A6;;11:55;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;20;4B2;;12:25;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;21;3A6;;12:50;25;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;22;2A7;;13:15;25;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;23;4B3;;13:40;25;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;24;1B1;;14:10;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;25;2B1;;14:30;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;26;4B4;;14:50;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;27;3B1;;15:10;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;28;1B2;;15:30;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;29;2B2;;16:00;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;30;3B2;;16:30;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;31;1B3;;17:00;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;32;4B5;;17:30;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;33;5B3;;18:00;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;34;1B4;;18:30;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;35;2B4;;19:00;30;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;36;3B3;;19:20;20;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;37;1B5;;19:45;25;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;38;2B5;;20:10;25;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;39;3B4;;20:45;35;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;40;2B6;;21:20;35;Bloco 1;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;41;3B5;;21:55;35;Bloco 2;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0091/2026;N-79;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;21/06/2026;42;2B7;;22:30;35;Bloco 2;2;OK;;n-79_dom-gua_21-06-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;1;1A1;;05:45;0;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;2;2A1;;06:25;40;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;3;3A1;;06:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;4;1A2;;07:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;5;2A2;;07:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;6;3A2;;08:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;7;1A3;;08:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;8;2A3;;09:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;9;3A3;;09:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;10;4A1;;10:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;11;1A4;;10:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;12;2A4;;11:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;13;4A2;;11:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;14;1A5;;12:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;15;3A4;;12:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;16;2A5;;13:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;17;4A3;;13:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;18;3A5;;14:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;19;1B1;;14:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;20;2B1;;15:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;21;3A6;;15:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;22;4A4;;16:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;23;1B2;;16:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;24;2B2;;17:25;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;25;4A5;;17:55;30;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;26;1B3;;18:35;40;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;27;2B3;;19:15;40;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;28;1B4;;19:55;40;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;29;2B4;;20:35;40;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0088/2026;N-80;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;31/05/2026;30;1B5;;21:15;40;Bloco 1;2;OK;;n-80_dom-gua_31-05-2026.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;1;1A1;;05:30;0;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;2;2A1;;06:15;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;3;1A2;;07:00;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;4;2A2;;07:45;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;5;1A3;;08:30;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;6;2A3;;09:15;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;7;3A1;;10:00;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;8;1A4;;10:45;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;9;3A2;;11:30;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;10;2A4;;12:15;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;11;3A3;;13:00;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;12;2A5;;13:45;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;13;1B1;;14:30;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;14;2B1;;15:15;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;15;3A4;;16:00;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;16;1B2;;16:45;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;17;2B2;;17:30;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;18;1B3;;18:15;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;19;2B3;;19:00;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;20;1B4;;19:45;45;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0046/2026;N-84;GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA;26/04/2026;21;2B4;;20:25;40;Bloco 1;2;OK;;n-84-guanabara-vigencia-26-04-2026-domingos-feriados-soledade-petropolis-via-av.-moema-t.-da-c.lima.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;1;A1;;05:00;0;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;2;A2;;06:00;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;3;A3;;07:00;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;4;A2;;07:55;55;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;5;A1;;08:30;35;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;6;A3;;09:30;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;7;A1;;10:30;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;8;A2;;11:30;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;9;A3;;12:30;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;10;B1;;13:10;40;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;11;B2;;14:00;50;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;12;B3;;14:50;50;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;13;B1;;15:30;40;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;14;B2;;16:30;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;15;B3;;17:30;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;16;B1;;18:30;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;17;B2;;19:30;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0065/2026;O-21;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;18;B3;;20:30;60;Bloco 1;2;OK;;o-21-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-areia-preta-via-alecrim.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;1;A1;;04:35;0;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;2;A2;;05:00;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;3;A3;;05:25;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;4;A4;;05:50;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;5;A5;;06:10;20;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;6;A6;;06:30;20;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;7;A1;;06:55;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;8;A2;;07:20;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;9;A3;;07:50;30;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;10;A8;;08:20;30;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;11;A6;;08:50;30;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;12;A9;;09:20;30;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;13;A5;;09:50;30;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;14;A1;;10:15;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;15;A2;;10:40;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;16;A8;;11:10;30;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;17;A3;;11:35;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;18;A4;;12:00;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;19;A5;;12:20;20;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;20;B1;;12:40;20;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;21;A6;;13:00;20;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;22;A7;;13:25;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;23;B2;;13:50;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;24;B3;;14:15;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;25;B4;;14:40;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;26;B1;;15:05;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;27;A8;;15:30;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;28;A7;;15:55;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;29;B2;;16:20;25;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;30;B3;;16:50;30;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;31;B4;;17:20;30;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;32;A8;;17:55;35;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;33;B1;;18:45;50;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;34;B2;;19:40;55;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;35;B3;;20:30;50;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0047/2026;O-33;TRANSPORTES CIDADE DO NATAL;26/04/2026;36;B4;;21:20;50;Bloco 1;2;OK;;o-33-cidade-do-natal-vigencia26-04-2026-domingos-feriados-planalto-praia-do-meio-via-br-101-av.-prudentede-morais.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;1;A1;;05:10;0;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;2;A1;;06:40;90;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;3;A1;;08:10;90;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;4;A3;;09:35;85;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;5;A1;;11:05;90;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;6;A3;;11:50;45;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;7;A1;;12:30;40;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;8;B1;;14:00;90;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;9;A3;;14:40;40;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;10;B1;;16:00;80;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;11;A3;;16:40;40;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;12;B1;;18:40;120;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;13;B1;;20:40;120;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;14;B1;;22:40;120;Bloco 1;2;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;1;A2;;05:50;0;Bloco 1;4;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;2;A2;;07:25;95;Bloco 1;4;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;3;A2;;08:50;85;Bloco 1;4;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;4;A2;;10:15;85;Bloco 1;4;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;5;A2;;13:10;175;Bloco 1;4;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;6;B2;;15:20;130;Bloco 1;4;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;7;B2;;17:40;140;Bloco 1;4;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;8;B2;;19:40;120;Bloco 1;4;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0056/2026;O-33A;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2025;9;B2;;21:40;120;Bloco 1;4;OK;;o-33a-santa-maria-cidade-do-natal-domingos-feriados-vigencia-26-04-2026-planalto-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;1;A1;;05:30;0;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;2;A2;;06:05;35;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;3;A3;;06:40;35;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;4;A4;;07:10;30;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;5;A1;;07:45;35;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;6;A5;;08:15;30;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;7;A2;;08:45;30;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;8;A3;;09:10;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;9;A4;;09:35;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;10;A6;;10:00;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;11;A7;;10:25;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;12;A5;;10:50;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;13;A1;;11:15;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;14;A8;;11:45;30;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;15;A2;;12:15;30;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;16;A6;;12:45;30;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;17;A3;;13:10;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;18;A9;;13:35;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;19;A4;;14:00;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;20;A7;;14:25;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;21;A5;;14:50;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;22;A10;;15:15;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;23;A8;;15:40;25;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;24;A9;;16:10;30;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;25;A6;;16:40;30;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;26;A7;;17:10;30;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;27;A8;;18:10;60;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;28;A10;;19:10;60;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;29;A9;;20:10;60;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0048/2026;O-38;AUTO ÔNIBUS SANTA MARIA LTDA;26/04/2026;30;A10;;21:10;60;Bloco 1;2;OK;;o-38-santa-maria-vigencia-26-04-2026-domingos-feriados-planalto-praiado-meio-via-av.-06.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;1;A1;;05:00;0;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;2;A2;;06:00;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;3;A3;;07:00;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;4;A2;;07:55;55;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;5;A1;;08:30;35;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;6;A3;;09:30;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;7;A1;;10:30;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;8;A2;;11:30;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;9;A3;;12:30;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;10;B1;;13:10;40;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;11;B2;;14:00;50;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;12;B3;;14:50;50;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;13;B1;;15:30;40;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;14;B2;;16:30;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;15;B3;;17:30;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;16;B1;;18:30;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;17;B2;;19:30;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0069/2026;O-41A;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;18;B3;;20:30;60;Bloco 1;2;OK;;o-41a-conceicao-vigencia26-04-2026-domingos-feriados-leningrado-ribeira-via-av.-prudente-de-morais.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;1;A1;;05:00;0;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;2;A2;;06:00;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;3;A3;;07:00;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;4;A2;;07:55;55;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;5;A1;;08:30;35;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;6;A3;;09:30;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;7;A1;;10:30;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;8;A2;;11:30;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;9;A3;;12:30;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;10;B1;;13:10;40;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;11;B2;;14:00;50;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;12;B3;;14:50;50;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;13;B1;;15:30;40;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;14;B2;;16:30;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;15;B3;;17:30;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;16;B1;;18:30;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;17;B2;;19:30;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0066/2026;O-59;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;18;B3;;20:30;60;Bloco 1;2;OK;;o-59-conceicao-vigencia26-04-2026-domingos-feriados-guarapes-praia-do-meio-via-bom-pastor.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;1;A1;;05:00;0;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;2;A2;;05:30;30;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;3;A3;;06:00;30;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;4;A4;;06:40;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;5;A2;;07:25;45;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;6;A1;;08:05;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;7;A4;;08:45;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;8;A3;;09:25;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;9;A1;;10:05;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;10;A2;;10:45;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;11;A3;;11:25;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;12;A4;;12:05;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;13;A2;;12:45;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;14;B1;;13:25;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;15;B3;;14:05;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;16;B4;;14:45;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;17;B1;;15:25;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;18;B3;;16:05;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;19;B4;;16:45;40;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;20;B2;;17:45;60;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;21;B1;;18:45;60;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;22;B3;;19:45;60;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;23;B4;;20:45;60;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0073/2026;O-63;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;03/05/2026;24;B2;;21:45;60;Bloco 1;2;OK;;o-63-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-mirassol-via-av.-nevaldo-rocha.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;1;A1;;05:00;0;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;2;A2;;06:00;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;3;A3;;07:00;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;4;A2;;08:00;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;5;A1;;08:30;30;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;6;A3;;09:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;7;A1;;10:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;8;A2;;11:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;9;A3;;12:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;10;B1;;13:10;40;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;11;B2;;14:00;50;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;12;B3;;14:50;50;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;13;B1;;15:30;40;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;14;B2;;16:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;15;B3;;17:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;16;B1;;18:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;17;B2;;19:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;18;B3;;20:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0070/2026;O-83;EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO;26/04/2026;19;B2;;21:30;60;Bloco 1;2;OK;;o-83-conceicao-vigencia26-04-2026-domingos-feriados-felipe-camarao-ponta-negra-via-cidade-satelte.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;1;A1;;05:30;0;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;2;A2;;06:00;30;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;3;A1;;06:25;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;4;A2;;06:50;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;5;A3;;07:15;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;6;A2;;07:40;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;7;A1;;08:05;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;8;A2;;08:30;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;9;A1;;08:55;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;10;A2;;09:20;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;11;A3;;09:45;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;12;A2;;10:10;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;13;A3;;10:35;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;14;A1;;11:00;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;15;A3;;11:25;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;16;A1;;11:50;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;17;A3;;12:15;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;18;A1;;12:40;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;19;A2;;13:00;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;20;A4;;13:25;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;21;A2;;13:50;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;22;A4;;14:10;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;23;A5;;14:30;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;24;A3;;14:50;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;25;A4;;15:10;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;26;A5;;15:30;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;27;A3;;15:50;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;28;A4;;16:10;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;29;A3;;16:40;30;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;30;A4;;17:00;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;31;A5;;17:20;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;32;A3;;17:40;20;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;33;A5;;18:15;35;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;34;A4;;18:50;35;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;35;A5;;19:20;30;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;36;A4;;19:45;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;37;A5;;20:10;25;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;38;A4;;20:40;30;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;39;A5;;21:15;35;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0060/2026;S-37;TRANSNACIONAL TRANSPORTES URBANOS LTDA.;26/04/2026;40;A5;;22:10;55;Bloco 1;2;OK;;s-37-transnacional-vigencia-26-04-2026-domingos-feriados-mirassol-cidade-satelite-via-br-101.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;1;A1;;04:40;0;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;2;A2;;05:00;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;3;A3;;05:20;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;4;A1;;05:45;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;5;A2;;06:05;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;6;A3;;06:25;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;7;A1;;06:50;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;8;A2;;07:10;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;9;A3;;07:30;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;10;A1;;07:55;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;11;A2;;08:15;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;12;A3;;08:35;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;13;A1;;09:00;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;14;A2;;09:20;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;15;D1;;09:50;30;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;16;A3;;10:25;35;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;17;D1;;10:50;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;18;A1;;11:10;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;19;A2;;11:30;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;20;A3;;11:50;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;21;A1;;12:15;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;22;A2;;12:35;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;23;A3;;12:55;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;24;B1;;13:20;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;25;B2;;13:40;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;26;B3;;14:00;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;27;B1;;14:20;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;28;D1;;14:40;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;29;B2;;15:05;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;30;B3;;15:25;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;31;3B1;;15:50;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;32;B1;;16:20;30;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;33;B1;;16:45;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;34;B2;;17:05;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;35;B3;;17:30;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;36;B1;;17:50;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;37;D1;;18:15;25;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;38;B2;;18:35;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;39;B3;;18:55;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;40;B1;;19:15;20;Bloco 1;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;41;B2;;19:40;25;Bloco 2;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;42;B3;;20:00;20;Bloco 2;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;43;B1;;20:30;30;Bloco 2;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;44;B2;;21:00;30;Bloco 2;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;45;B3;;21:35;35;Bloco 2;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA
+0076/2026;S-50;TRANSFLOR LTDA;03/05/2026;46;B1;;22:15;40;Bloco 2;2;OK;;s-50-transflor-vigencia-26-04-2026-domingos-feriados-serrambi-lagoa-nova-via-midway-mall.pdf;STTU - OSO;ALTA

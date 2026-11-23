@@ -1,0 +1,118 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+24/04/2026 às 21:33:13
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0042/2026
+LINHA L-46 - Domingo/Feriado (Convencional)
+Empresa TRANSNACIONAL TRANSPORTES URBANOS LTDA. Tempo de Viagem 90 min
+Linha - Nº e Nome L-46 - ROCAS/PONTA NEGRA, VIA PRAÇA Vel. Média 23,80 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 5 Nº de Paradas 0
+Nº de Viagens 31,00 Data da Permissão 01/07/1983
+Extensão 35,70 Substitui a OS 0131/2023
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+AV. DUQUE DE CAXIAS (Terminal) RUA VEREADOR MANOEL CORINGA DE LEMOS
+PRAÇA AUGUSTO SEVERO RUA VEREADOR MANOEL SÁTIRO
+AV. CÂMARA CASCUDO AV. ENGENHEIRO ROBERTO FREIRE
+RUA PADRE JOÃO MANOEL BR 101
+RUA ULISSES CALDAS VIADUTO DA UFRN
+RUA MOSSORÓ BR 101
+AV. PRUDENTE DE MORAIS AV. SENADOR SALGADO FILHO
+AV. NILO PEÇANHA AV. HERMES DA FONSECA
+RUA CORONEL JOAQUIM MANOEL RUA CORONEL JOAQUIM MANOEL
+AV. HERMES DA FONSECA AV. NILO PEÇANHA
+AV. SENADOR SALGADO FILHO AV. PRUDENTE DE MORAIS
+BR 101 RUA TRAIRI
+VIADUTO DA ARENA DAS DUNAS AV. DEODORO DA FONSECA
+BR 101 RUA APODI
+VIADUTO DE PONTA NEGRA AV. RIO BRANCO
+AV. ENGENHEIRO ROBERTO FREIRE RUA GENERAL GLICERIO
+RUA VEREADOR MANOEL SÁTIRO AV. DUQUE DE CAXIAS (Terminal)
+RUA VEREADOR MANOEL CORINGA DE LEMOS
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 17,85 17,85 35,70
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 17,85 17,85 35,70
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=55e2f7d3c857d0436701e334a2193f59&param2=15483784&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 21:44:44 fls. 18
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=e1b8cbef1e31993ab768f2a925d294bd&param2=15483825&param3=1626985
+Documento assinado em 24/04/2026 às 22:00:50 fls. 18
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=ba8b7525b670ef0716062d563aae3908&param2=15483897&param3=1626985
+Documento assinado em 24/04/2026 às 22:27:27 fls. 18
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+24/04/2026 às 21:33:13
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0042/2026
+LINHA L-46 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 MI 04:55 0 min min
+2 A2 MI 05:20 25 min
+3 A3 MI 05:20 25 min
+4 A1 05:25 5 min
+5 A4 MI 05:50 25 min
+6 A3 05:50 25 min
+7 A2 06:15 25 min
+8 A4 06:40 25 min
+9 A1 07:05 25 min
+10 A3 07:35 30 min
+11 A2 08:00 25 min
+12 A5 MI 08:05 5 min
+13 A4 08:30 25 min
+14 A5 09:10 40 min
+15 A1 09:50 40 min
+16 A3 10:20 30 min
+17 A2 10:45 25 min
+18 A4 11:15 30 min
+19 A1 11:40 25 min
+20 A3 MF 12:00 20 min
+21 A5 12:20 20 min
+22 A2 12:40 20 min
+23 A4 MF 13:05 25 min
+24 B1 13:40 35 min
+25 A5 14:20 40 min
+26 B2 14:50 30 min
+27 B1 15:25 35 min
+28 A5 MF 16:00 35 min
+29 B2 16:40 40 min
+30 B1 17:25 45 min
+31 B2 18:25 60 min
+32 C1 19:25 60 min
+33 B1 20:15 50 min
+34 C1 21:05 50 min
+35 B2 22:00 55 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+MI: MEIA VIAGEM INICIAL | MF: MEIA VIAGEM FINAL | 8 MEIAS VIAGENS
+Natal(RN), sexta-feira, 24 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=55e2f7d3c857d0436701e334a2193f59&param2=15483784&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 21:44:44 fls. 19
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=e1b8cbef1e31993ab768f2a925d294bd&param2=15483825&param3=1626985
+Documento assinado em 24/04/2026 às 22:00:50 fls. 19
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=ba8b7525b670ef0716062d563aae3908&param2=15483897&param3=1626985
+Documento assinado em 24/04/2026 às 22:27:27 fls. 19

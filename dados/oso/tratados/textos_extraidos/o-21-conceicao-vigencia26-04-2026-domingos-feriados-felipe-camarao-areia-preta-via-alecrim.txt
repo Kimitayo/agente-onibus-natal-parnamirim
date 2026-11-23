@@ -1,0 +1,108 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 09:47:12
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0065/2026
+LINHA O-21 - Domingo/Feriado (Convencional)
+Empresa EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO Tempo de Viagem 110 min
+Linha - Nº e Nome O-21 - FELIPE CAMARÃO/AREIA PRETA, VIA ALECRIM Vel. Média 17,18 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 3 Nº de Paradas 0
+Nº de Viagens 18,00 Data da Permissão 01/07/1983
+Extensão 31,50 Substitui a OS 0005/2024
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA MARISTELA ALVES (Terminal) AV GOVERNADOR SILVIO PEDROZA
+RUA RAINHA DO MAR RUA PINTO MARTINS
+RUA ITAMAR MACIEL AV. PRESIDENTE GETÚLIO VARGAS
+RUA IDOMAR RUA DESEMBARGADOR DIONÍSIO FILGUEIRA
+RUA PROFESSOR COUTINHO RUA CORONEL JOAQUIM MANOEL
+RUA ANTONIO TRIGUEIRO AV. NILO PEÇANHA
+RUA PROFESSOR ANTÔNIO TRIGUEIRO RUA DOUTOR MANOEL DANTAS
+RUA MARISTELA ALVES AV. DEODORO DA FONSECA
+AV NOSSA SENHORA DO LIVRAMENTO RUA OLINTO MEIRA
+AV. NOSSA SENHORA DO ROSÁRIO RUA DOS CANINDÉS
+RUA SANTA MARIA MADALENA AV. INTERVENTOR MÁRIO CÂMARA
+RUA SEM NOME RUA PRESIDENTE LEÃO VELOSO
+AV NOSSA SENHORA DO LIVRAMENTO RUA DOS CAICÓS
+RUA SANTA MARIA MADALENA AV. ANTÔNIO BASÍLIO
+AV. NOSSA SENHORA DO ROSÁRIO AV. CORONEL ESTEVAM
+RUA MONTE CALVO AV. CAPITÃO-MOR GOUVEIA
+AV. SOLANGE NUNES DO NASCIMENTO AV. RIO GRANDE DO SUL
+AV. RIO GRANDE DO NORTE AV. CEARÁ
+AV. CEARÁ AV. RIO GRANDE DO NORTE
+AV. RIO GRANDE DO SUL AV. SOLANGE NUNES DO NASCIMENTO
+AV. CAPITÃO-MOR GOUVEIA RUA MONTE CALVO
+AV. CORONEL ESTEVAM RUA OESTE
+RUA CORONEL JOSÉ BERNARDO RUA SANTA CRISTINA
+RUA MEIRA E SÁ RUA PEDRINHO BEZERRA
+RUA OLINTO MEIRA AV NOSSA SENHORA DO LIVRAMENTO
+AV. DEODORO DA FONSECA RUA MARISTELA ALVES
+RUA GENERAL GUSTAVO CORDEIRO DE FARIAS RUA PROFESSOR ANTÔNIO TRIGUEIRO
+AV. NILO PEÇANHA RUA PROFESSOR COUTINHO
+AV. PRESIDENTE GETÚLIO VARGAS RUA IDOMAR
+LADEIRA DO SOL RUA ITAMAR MACIEL
+RUA FABRICIO PEDROZA RUA MIRASSOL
+AV GOVERNADOR SILVIO PEDROZA RUA MARISTELA ALVES (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 15,75 15,75 31,50
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 15,75 15,75 31,50
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=6b91edde4ea6764c79bcc3a762183a29&param2=15484026&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 09:47:58 fls. 66
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=5347cb97fa069c4115baf556404d2b0d&param2=15484119&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:08 fls. 66
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+25/04/2026 às 09:47:12
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0065/2026
+LINHA O-21 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 A1 05:00 0 min min
+2 A2 06:00 60 min
+3 A3 07:00 60 min
+4 A2 07:55 55 min
+5 A1 08:30 35 min
+6 A3 09:30 60 min
+7 A1 10:30 60 min
+8 A2 11:30 60 min
+9 A3 12:30 60 min
+10 B1 13:10 40 min
+11 B2 14:00 50 min
+12 B3 14:50 50 min
+13 B1 15:30 40 min
+14 B2 16:30 60 min
+15 B3 17:30 60 min
+16 B1 18:30 60 min
+17 B2 19:30 60 min
+18 B3 20:30 60 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+Natal(RN), sábado, 25 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=6b91edde4ea6764c79bcc3a762183a29&param2=15484026&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 25/04/2026 às 09:47:58 fls. 67
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=5347cb97fa069c4115baf556404d2b0d&param2=15484119&param3=1626985
+Documento assinado em 25/04/2026 às 11:53:08 fls. 67

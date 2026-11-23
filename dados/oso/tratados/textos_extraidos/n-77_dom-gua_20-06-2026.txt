@@ -1,0 +1,108 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+17/06/2026 às 15:44:38
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0090/2026
+LINHA N-77 - Domingo/Feriado (Convencional)
+Empresa GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA Tempo de Viagem 95 min
+Linha - Nº e Nome N-77 - P. DOS COQUEIROS/MIRASSOL, VIA AV. NEVALDO ROCH Vel. Média 23,81 km/h
+Início Vigência 21/06/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 31,00 Data da Permissão 17/02/1992
+Extensão 37,70 Substitui a OS 0049/2026
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA ALVORADA DO NORTE (Terminal) AV. ENGENHEIRO ROBERTO FREIRE
+AV. PEDRO ÁLVARES CABRAL BR 101
+RUA JARDIM ESPERANÇA VIADUTO DA UFRN
+AV. DOS EXPEDICIONÁRIOS BR 101
+AV BACHAREL TOMAZ LANDIM AV. SENADOR SALGADO FILHO
+PONTE DE IGAPÓ AV. ANTÔNIO BASÍLIO
+AV. FELIZARDO FIRMINO MOURA AV. XAVIER DA SILVEIRA
+RUA JANDIRA AV. NEVALDO ROCHA
+RUA DOUTOR MÁRIO NEGÓCIO VIADUTO DA URBANA
+VIADUTO DA URBANA RUA DOUTOR MÁRIO NEGÓCIO
+AV. NEVALDO ROCHA AV. FELIZARDO FIRMINO MOURA
+AV. SENADOR SALGADO FILHO PONTE DE IGAPÓ
+BR 101 AV BACHAREL TOMAZ LANDIM
+VIADUTO DA ARENA DAS DUNAS VIADUTO ULISSES DE GÓIS
+BR 101 AV BACHAREL TOMAZ LANDIM
+VIADUTO DE PONTA NEGRA AV. DOS EXPEDICIONÁRIOS
+AV. ENGENHEIRO ROBERTO FREIRE RUA JARDIM ESPERANÇA
+AV. PEDRO ÁLVARES CABRAL
+RUA ALVORADA DO NORTE (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 18,85 18,85 37,70
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 18,85 18,85 37,70
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=2db9f09ad4ca55c7e055a06c9ebdb7d5&param2=16022432&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 17/06/2026 às 16:07:13 fls. 155
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=1ea9ba017ea83eec1fb40bce2f0873b6&param2=16022684&param3=1626985
+Documento assinado em 17/06/2026 às 16:25:37 fls. 155
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+17/06/2026 às 15:44:38
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0090/2026
+LINHA N-77 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 1A1 05:05 0 min min
+2 2A1 05:40 35 min
+3 3A1 06:15 35 min
+4 1A2 06:50 35 min
+5 2A2 07:25 35 min
+6 3A2 08:00 35 min
+7 1A3 08:35 35 min
+8 2A3 09:10 35 min
+9 3A3 09:45 35 min
+10 4A1 10:20 35 min
+11 1A4 10:55 35 min
+12 2A4 11:30 35 min
+13 4A2 12:05 35 min
+14 3A4 12:35 30 min
+15 2A5 13:15 40 min
+16 4A3 13:50 35 min
+17 3A5 14:15 25 min
+18 1B1 14:45 30 min
+19 2B1 15:25 40 min
+20 3B1 16:05 40 min
+21 1B2 16:35 30 min
+22 4A4 17:10 35 min
+23 2B2 17:45 35 min
+24 1B3 18:20 35 min
+25 4A5 18:55 35 min
+26 3B2 19:30 35 min
+27 2B3 20:05 35 min
+28 1B4 20:45 40 min
+29 3B3 21:15 30 min
+30 2B4 22:00 45 min
+31 3B4 22:45 45 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 21/06/2026
+Natal(RN), quarta-feira, 17 de junho de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=2db9f09ad4ca55c7e055a06c9ebdb7d5&param2=16022432&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 17/06/2026 às 16:07:13 fls. 156
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 600644 - NEWTON DE SOUZA PEREIRA FILHO
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=1ea9ba017ea83eec1fb40bce2f0873b6&param2=16022684&param3=1626985
+Documento assinado em 17/06/2026 às 16:25:37 fls. 156

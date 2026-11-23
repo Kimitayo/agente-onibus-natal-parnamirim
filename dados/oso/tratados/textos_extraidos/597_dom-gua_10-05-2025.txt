@@ -1,0 +1,122 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+06/05/2026 às 13:22:55
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0080/2026
+LINHA 597 - Domingo/Feriado (Alimentador)
+Empresa GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA Tempo de Viagem 50 min
+Linha - Nº e Nome 597 - NOVA NATAL/SANTA CATARIA, VIA PARTAGE SHOPPING Vel. Média 22,80 km/h
+Início Vigência 10/05/2026 Km Morta 0,00
+Frota 2 Nº de Paradas 0
+Nº de Viagens 30,00 Data da Permissão 06/05/2026
+Extensão 19,00 Substitui a OS 0238/2004
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+AV. DO BAIÃO (Terminal) RUA ILHÉUS
+AV. DAS CIRANDAS AV. BAHIA
+RUA DO COCO-DE-RODA AV. DOUTOR JOÃO MEDEIROS FILHO
+RUA DO ABOIO AV. GUADALUPE
+RUA DOS GANZAS RUA ILHÉUS
+RUA DO PASTORIL AV. PADRE TIAGO THEISEN
+RUA DO FANDANGO AV. BLUMENAU
+AV. DOS CABOCLINHOS AV. SENHOR DO BONFIM
+RUA DA LAPINHA RUA CASA NOVA
+RUA DOS COROAS TERMINAL DE INTEGRAÇÃO DO SOLEDADE
+RUA DA ARARUNA RUA PALMEIRAS
+AV. CIDADE PRAIA RUA JEQUIRIÇÁ
+RUA SERRA NEGRA RUA SERRA NEGRA
+RUA JEQUIRIÇÁ AV. CIDADE PRAIA
+RUA PALMEIRAS RUA LOS ANGELES
+TERMINAL DE INTEGRAÇÃO DO SOLEDADE AV. CENTENÁRIO DA ABOLIÇÃO
+RUA PALMEIRAS RUA DA ARARUNA
+RUA JEQUIRIÇÁ RUA DOS COROAS
+AV. SENHOR DO BONFIM RUA DA LAPINHA
+AV. BLUMENAU RUA DOS CABOCLINHOS
+AV. PADRE TIAGO THEISEN RUA DO FANDANGO
+RUA ILHÉUS RUA DO PASTORIL
+AV. GUADALUPE RUA DOS REPENTISTAS
+AV. DOUTOR JOÃO MEDEIROS FILHO RUA DOS VIOLEIROS
+AV. SENHOR DO BONFIM RUA ZÉ LIMEIRA
+RUA ILHÉUS RUA DOS CONGOS
+RUA DO SASSAFRAS
+AV. DO BAIÃO (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 9,50 9,50 19,00
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 9,50 9,50 19,00
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=4fb70b75a468c56cea18964e6695d5d7&param2=15592927&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 06/05/2026 às 13:25:43 fls. 126
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=cc0fb58d448a92f98e3bd669cd0f54d6&param2=15592958&param3=1626985
+Documento assinado em 06/05/2026 às 13:27:22 fls. 126
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=917d009d973f41077800c08d52e7889c&param2=15593262&param3=1626985
+Documento assinado em 06/05/2026 às 13:35:46 fls. 126
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+06/05/2026 às 13:22:55
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE JOAO.OLIVEIRA
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0080/2026
+LINHA 597 - Domingo/Feriado (Alimentador)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 1A1 05:20 0 min min
+2 2A1 06:00 40 min
+3 1A2 06:40 40 min
+4 2A2 07:20 40 min
+5 1A3 08:00 40 min
+6 2A3 08:40 40 min
+7 1A4 09:20 40 min
+8 2A4 10:00 40 min
+9 1A5 10:40 40 min
+10 2A5 11:20 40 min
+11 1A6 12:00 40 min
+12 2A6 12:40 40 min
+13 1A7 13:20 40 min
+14 2A7 14:00 40 min
+15 1B1 14:40 40 min
+16 2B1 15:20 40 min
+17 1B2 16:00 40 min
+18 2B2 16:30 30 min
+19 1B3 17:00 30 min
+20 2B3 17:30 30 min
+21 1B4 18:00 30 min
+22 2B4 18:50 50 min
+23 1B5 19:20 30 min
+24 2B5 19:50 30 min
+25 1B6 20:20 30 min
+26 2B6 20:50 30 min
+27 1B7 21:20 30 min
+28 2B7 21:50 30 min
+29 1B8 22:20 30 min
+30 2B8 22:50 30 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 10/05/2026
+Natal(RN), quarta-feira, 6 de maio de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído por: STTU - 737396 - JONATAS CESAR SALES MATIAS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=4fb70b75a468c56cea18964e6695d5d7&param2=15592927&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 06/05/2026 às 13:25:43 fls. 127
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=cc0fb58d448a92f98e3bd669cd0f54d6&param2=15592958&param3=1626985
+Documento assinado em 06/05/2026 às 13:27:22 fls. 127
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=917d009d973f41077800c08d52e7889c&param2=15593262&param3=1626985
+Documento assinado em 06/05/2026 às 13:35:46 fls. 127

@@ -1,0 +1,120 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+27/05/2026 às 13:19:48
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0088/2026
+LINHA N-80 - Domingo/Feriado (Convencional)
+Empresa GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA Tempo de Viagem 85 min
+Linha - Nº e Nome N-80 - TERMINAL SOLEDADE/PRAIA DO MEIO, VIA PETRÓPOLI Vel. Média 19,84 km/h
+Início Vigência 31/05/2026 Km Morta 0,00
+Frota 4 Nº de Paradas 0
+Nº de Viagens 30,00 Data da Permissão 21/05/2026
+Extensão 28,10 Substitui a OS 0081/2026
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+TERMINAL DE INTEGRAÇÃO DO SOLEDADE (Terminal) AV. PRESIDENTE CAFÉ FILHO
+RUA CASA NOVA RUA TULIO FERNANDES
+AV. SENHOR DO BONFIM RUA RODRIGUES DIAS
+RUA PARANDUVA RUA PEDRO AFONSO
+RUA ILHÉUS RUA BELO HORIZONTE
+AV. GUADALUPE RUA MIRAMAR
+AV. DOUTOR JOÃO MEDEIROS FILHO RUA GENERAL GUSTAVO CORDEIRO DE FARIAS
+TÚNEL ULISSES DE GÓIS AV. DUQUE DE CAXIAS
+AV BACHAREL TOMAZ LANDIM PRAÇA AUGUSTO SEVERO
+PONTE DE IGAPÓ AV. CÂMARA CASCUDO
+AV. FELIZARDO FIRMINO MOURA RUA PADRE JOÃO MANOEL
+RUA JANDIRA RUA PADRE PINTO
+RUA DOUTOR MÁRIO NEGÓCIO RUA MERMOZ
+RUA PRESIDENTE LEÃO VELOSO RUA CORONEL JOSÉ BERNARDO
+AV. CORONEL ESTEVAM RUA FONSECA E SILVA
+RUA CORONEL JOSÉ BERNARDO RUA AMARO BARRETO
+AV. RIO BRANCO RUA DOUTOR MÁRIO NEGÓCIO
+RUA ULISSES CALDAS AV. FELIZARDO FIRMINO MOURA
+RUA MOSSORÓ PONTE DE IGAPÓ
+AV. PRUDENTE DE MORAIS AV BACHAREL TOMAZ LANDIM
+AV. NILO PEÇANHA AV. DOUTOR JOÃO MEDEIROS FILHO
+RUA GENERAL GUSTAVO CORDEIRO DE FARIAS AV. GUADALUPE
+RUA MIRAMAR RUA ILHÉUS
+RUA PEDRO AFONSO RUA PARANDUVA
+RUA RODRIGUES DIAS AV. SENHOR DO BONFIM
+RUA FELICIANO COELHO RUA ITABUNA
+AV. 25 DE DEZEMBRO AV. SALVADOR
+RUA MASCARENHAS HOMEM TERMINAL DE INTEGRAÇÃO DO SOLEDADE (Terminal)
+AV. PRESIDENTE CAFÉ FILHO
+NAS VIAGENS RIBEIRA, UTILIZAR: N-80 - TERMINAL SOLEDADE/RIBEIRA, VIA PETRÓPOLIS
+EXTENSÃO: 25,6 KM
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 14,05 14,05 28,10
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 14,05 14,05 28,10
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=ff45650a1c5fcb40cf50fadb1de16758&param2=15817009&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 27/05/2026 às 14:03:52 fls. 148
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=30235fb6e3bfb9475b1667d8a9d68266&param2=15822746&param3=1626985
+Documento assinado em 28/05/2026 às 08:49:24 fls. 148
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+27/05/2026 às 13:19:48
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0088/2026
+LINHA N-80 - Domingo/Feriado (Convencional)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 1A1 05:45 0 min min
+2 2A1 06:25 40 min
+3 3A1 06:55 30 min
+4 1A2 07:25 30 min
+5 2A2 07:55 30 min
+6 3A2 08:25 30 min
+7 1A3 08:55 30 min
+8 2A3 09:25 30 min
+9 3A3 09:55 30 min
+10 4A1 10:25 30 min
+11 1A4 10:55 30 min
+12 2A4 11:25 30 min
+13 4A2 11:55 30 min
+14 1A5 12:25 30 min
+15 3A4 12:55 30 min
+16 2A5 13:25 30 min
+17 4A3 13:55 30 min
+18 3A5 14:25 30 min
+19 1B1 14:55 30 min
+20 2B1 15:25 30 min
+21 3A6 15:55 30 min
+22 4A4 16:25 30 min
+23 1B2 16:55 30 min
+24 2B2 17:25 30 min
+25 4A5 17:55 30 min
+26 1B3 R 18:35 40 min
+27 2B3 R 19:15 40 min
+28 1B4 R 19:55 40 min
+29 2B4 R 20:35 40 min
+30 1B5 R 21:15 40 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 31/05/2026
+R: VIAGENS ATÉ A RIBEIRA
+Natal(RN), quarta-feira, 27 de maio de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=ff45650a1c5fcb40cf50fadb1de16758&param2=15817009&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 27/05/2026 às 14:03:52 fls. 149
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=30235fb6e3bfb9475b1667d8a9d68266&param2=15822746&param3=1626985
+Documento assinado em 28/05/2026 às 08:49:24 fls. 149

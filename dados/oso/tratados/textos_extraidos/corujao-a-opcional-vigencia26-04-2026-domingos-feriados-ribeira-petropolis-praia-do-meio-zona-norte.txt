@@ -1,0 +1,81 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+24/04/2026 às 22:13:13
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0006/2026
+LINHA A - Domingo/Feriado
+Empresa LINHA OPCIONAL Tempo de Viagem 90 min
+Linha - Nº e Nome A - RIBEIRA/PETRÓPOLIS/PRAIA DO MEIO/ZONA NORTE Vel. Média 22,13 km/h
+Início Vigência 26/04/2026 Km Morta 0,00
+Frota 1 Nº de Paradas 0
+Nº de Viagens 2,00 Data da Permissão 24/04/2026
+Extensão 33,20 Substitui a OS
+ITINERÁRIO
+IDA VOLTA
+AV. DUQUE DE CAXIAS (Terminal) AV BACHAREL TOMAZ LANDIM
+PRAÇA AUGUSTO SEVERO RUA PASTOR JOAQUIM BATISTA DE MACEDO
+AV. CÂMARA CASCUDO RUA SANTA LUZIA
+LARGO JUNQUEIRA AIRES AV. DAS FRONTEIRAS
+RUA ULISSES CALDAS VIADUTO DA AV. DAS FRONTEIRAS
+RUA MOSSORÓ AV. RIO DOCE
+AV. PRUDENTE DE MORAIS AV. TOCANTÍNEA
+AV. NILO PEÇANHA AV. MOEMA TINOCO DA CUNHA LIMA
+AV. PRESIDENTE GETÚLIO VARGAS RUA CONSELHEIRO TRISTÃO
+ARTÉRIA LADEIRA DO SOL PONTE NEWTON NAVARRO
+AV. PRESIDENTE CAFÉ FILHO AV. PRESIDENTE CAFÉ FILHO
+VIADUTO DE SANTOS REIS RUA PROFESSOR JOSÉ MELQUÍADES
+AV. PRESIDENTE CAFÉ FILHO RUA CORONEL FLAMÍNIO
+PONTE NEWTON NAVARRO RUA SÃO JOÃO DE DEUS
+RUA CONSELHEIRO TRISTÃO AV. ENGENHEIRO HIDELBRANDO DE GÓIS
+VIADUTO DA REDINHA TRAVESSA SÃO PEDRO
+AV. DOUTOR JOÃO MEDEIROS FILHO AV. DUQUE DE CAXIAS (Terminal)
+AV BACHAREL TOMAZ LANDIM
+A OSO obedece critérios regulamentares e Decisão Judicial, na
+forma do Processo nº 001.00.0039048/5ª Vara da Fazenda Pública
+(D.O.E. 30.05.02)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 16,60 16,60 33,20
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 16,60 16,60 33,20
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=08e7e4eb2f26eb2db508dca462dfbbde&param2=15483872&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 22:13:40 fls. 56
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=0650f9e1749f3446d15df49b879f85e2&param2=15483902&param3=1626985
+Documento assinado em 24/04/2026 às 22:28:30 fls. 56
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em: Página
+24/04/2026 às 22:13:13
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE
+ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0006/2026
+LINHA A - Domingo/Feriado
+QUADRO DE HORARIO
+Saída Saída Saída Saída
+Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq Seq Tab Terminal Freq
+1 C1 00:00 0min min min min
+2 C1 01:40 100min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 26/04/2026
+Natal(RN), sexta-feira, 24 de abril de 2.026
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=08e7e4eb2f26eb2db508dca462dfbbde&param2=15483872&param3=1626985
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20260550322 em 24/04/2026 às 22:13:40 fls. 57
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730489 - SAURO SPINELLY FLORENCIO DA CUNHA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=0650f9e1749f3446d15df49b879f85e2&param2=15483902&param3=1626985
+Documento assinado em 24/04/2026 às 22:28:30 fls. 57

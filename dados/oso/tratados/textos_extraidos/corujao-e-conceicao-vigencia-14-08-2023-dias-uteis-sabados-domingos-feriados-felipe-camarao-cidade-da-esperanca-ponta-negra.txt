@@ -1,0 +1,93 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+11/08/2023 às 16:04:40
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0018/2023
+LINHA E - Domingo/Útil/Sábado/Feriado (Noturno)
+Empresa EMP. TRANSP. NOSSA SENHORA DA CONCEIÇÃO Tempo de Viagem 100 min
+Linha - Nº e Nome E - FELIPE CAMARÃO/CIDADE DA ESPERANÇA/PONTA NEGRA Vel. Média 27,36 km/h
+Início Vigência 14/08/2023 Km Morta 0,00
+Frota 1 Nº de Paradas 0
+Nº de Viagens 2,00 Data da Permissão 03/11/2007
+Extensão 45,60 Substitui a OS
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA MARISTELA ALVES (Terminal) RUA VEREADOR MANOEL CORINGA DE LEMOS
+RUA RAINHA DO MAR RUA VEREADOR MANOEL SÁTIRO
+RUA ITAMAR MACIEL AV. ENGENHEIRO ROBERTO FREIRE
+RUA IDOMAR BR 101
+RUA PROFESSOR COUTINHO VIADUTO DA UFRN
+RUA PROFESSOR ANTÔNIO TRIGUEIRO BR 101
+RUA MARISTELA ALVES AV.SENADOR SALGADO FILHO
+AV NOSSA SENHORA DO LIVRAMENTO AV. ANTÔNIO BASÍLIO
+AV NOSSA SENHORA DO ROSARIO AV. XAVIER DA SILVEIRA
+RUA SEM NOME AV. NEVALDO ROCHA
+AV NOSSA SENHORA DO LIVRAMENTO AV. CORONEL ESTEVAM
+RUA SEM NOME RUA BARAÚNA
+AV NOSSA SENHORA DO ROSARIO RUA DOS CAICÓS
+RUA MONTE CALVO AV. ANTÔNIO BASÍLIO
+AV SOLANGE NUNES DO NASCIMENTO AV. CAPITÃO-MOR GOUVEIA
+AV. RIO GRANDE DO NORTE AV. RIO GRANDE DO SUL
+AV. PARAÍBA AV. CEARÁ
+RUA AREIAS AV. RIO GRANDE DO NORTE
+RUA CAMPINA GRANDE AV SOLANGE NUNES DO NASCIMENTO
+RUA CAJAZEIRAS RUA PADRE CÍCERO
+AV. CAPITÃO-MOR GOUVEIA RUA LARANJAL
+AV. CORONEL ESTEVAM RUA MONTE CALVO
+AV. NEVALDO ROCHA RUA OESTE
+AV. SENADOR SALGADO FILHO RUA SANTA CRISTINA
+BR 101 RUA PEDRINHO BEZERRA
+VIADUTO DA ARENA DAS DUNAS AV NOSSA SENHORA DO LIVRAMENTO
+BR 101 RUA MARISTELA ALVES
+VIADUTO DE PONTA NEGRA RUA PROFESSOR ANTÔNIO TRIGUEIRO
+AV. ENGENHEIRO ROBERTO FREIRE RUA PROFESSOR COUTINHO
+RUA VEREADOR MANOEL SÁTIRO RUA IDOMAR
+RUA VEREADOR MANOEL CORINGA DE LEMOS RUA ITAMAR MACIEL
+RUA MIRASSOL
+RUA MARISTELA ALVES (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 22,80 22,80 45,60
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 22,80 22,80 45,60
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=4d2dc39687301a99072bcc830b536c47&param2=6479232&param3=1108453
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20231033327 em 11/08/2023 às 17:49:35 fls. 109
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730848 - DALIANA BANDEIRA LUZ MONTEIRO SANTOS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=363f158c13ad15fc7b960c33232f9007&param2=6479249&param3=1108453
+Documento assinado em 11/08/2023 às 17:56:25 fls. 109
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+11/08/2023 às 16:04:40
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0018/2023
+LINHA E - Domingo/Útil/Sábado/Feriado (Noturno)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 1 00:30 0 min min
+2 1 02:30 120 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 14/08/2023
+Natal(RN), sexta-feira, 11 de agosto de 2.023
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=4d2dc39687301a99072bcc830b536c47&param2=6479232&param3=1108453
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20231033327 em 11/08/2023 às 17:49:35 fls. 110
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730848 - DALIANA BANDEIRA LUZ MONTEIRO SANTOS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=363f158c13ad15fc7b960c33232f9007&param2=6479249&param3=1108453
+Documento assinado em 11/08/2023 às 17:56:25 fls. 110

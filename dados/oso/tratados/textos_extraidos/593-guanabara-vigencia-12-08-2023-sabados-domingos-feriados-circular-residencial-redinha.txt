@@ -1,0 +1,80 @@
+
+==================== PÁGINA 1 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+11/08/2023 às 17:31:40
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 1/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0023/2023
+LINHA 593 - Domingo/Sábado/Feriado (Alimentador)
+Empresa GUANABARA EMPRESA DE TRANSPORTE COLETIVO LTDA Tempo de Viagem 45 min
+Linha - Nº e Nome 593 - CIRCULAR RESIDENCIAL REDINHA Vel. Média 17,73 km/h
+Início Vigência 12/08/2023 Km Morta 0,00
+Frota 1 Nº de Paradas 0
+Nº de Viagens 12,00 Data da Permissão 23/04/2003
+Extensão 13,30 Substitui a OS
+Estações de Transferência: -
+ITINERÁRIO
+IDA VOLTA
+RUA CRISTAIS DE GELO (Terminal) AV. DAS FRONTEIRAS
+RUA JARAGUÁ AV. MARANGUAPE
+RUA DOS LÍRIOS RUA ILHÉUS
+AV. DOUTOR JOÃO MEDEIROS FILHO RUA GUADALUPE
+AV. MOEMA TINOCO DA CUNHA LIMA AV. DOUTOR JOÃO MEDEIROS FILHO
+RUA JORGE TAVARES DA SILVA AV. GOVERNADOR ANTÔNIO DE MELO SOUZA
+RUA WILLIAN MARINHO LEIROS RUA DAS PRÍMULAS
+AV. DOUTOR JOÃO MEDEIROS FILHO RUA CONSTRUTOR SEVERINO BEZERRA
+AV. PAULISTANA RUA LUIZ JUSTINO DE OLIVEIRA
+AV. DAS FRONTEIRAS RUA CRISTAIS DE GELO (Terminal)
+Pontos de Referência / Placa Lateral Pavimentação
+01 - Piso / Sentido Ida Volta Total
+02 - Asfalto 6,65 6,65 13,30
+03 - Calçamento 0,00 0,00 0,00
+Terra 0,00 0,00 0,00
+Totais 6,65 6,65 13,30
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=e9f139d1615d1446157c3195a373f2da&param2=6479223&param3=1108453
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20231033327 em 11/08/2023 às 17:48:45 fls. 105
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730848 - DALIANA BANDEIRA LUZ MONTEIRO SANTOS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=bdc4eb32070d5d78fa917eb856040506&param2=6479251&param3=1108453
+Documento assinado em 11/08/2023 às 17:56:28 fls. 105
+
+==================== PÁGINA 2 ====================
+
+PREFEITURA MUNICIPAL DO NATAL Emitido em Página
+11/08/2023 às 17:31:40
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA
+Por 2/2
+SISTEMA DE GESTÃO DE TRANSPORTE ALAN.V
+OSO - ORDEM DE SERVIÇO OPERACIONAL: Nº 0023/2023
+LINHA 593 - Domingo/Sábado/Feriado (Alimentador)
+QUADRO DE HORÁRIO
+SeqTab Tipo Te S r a m íd in a al Freq Seq Tab Tipo Te S r a m íd in a al Freq SeqTabTipo Saída Freq Seq Tab Tipo Te S r a m íd in a al Freq
+Terminal
+min min
+1 1A1 06:35 0 min min
+2 1A2 07:30 55 min
+3 1A3 08:25 55 min
+4 1A4 09:50 85 min
+5 1A5 10:45 55 min
+6 1A6 11:40 55 min
+7 1B1 12:40 60 min
+8 1B2 13:40 60 min
+9 1B3 14:40 60 min
+10 1B4 16:10 90 min
+11 1B5 17:10 60 min
+12 1B6 18:20 70 min
+Observação:
+A permissionária obriga-se a cumprir esta programação a partir de 12/08/2023
+Natal(RN), sexta-feira, 11 de agosto de 2.023
+Chefe do Departamento de Operações
+Secretário(a) Adjunto(a) de Transportes Público
+SÓ É VÁLIDO ASSINADO
+Incluído e Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 729019 - ALAN VICTOR SILVA DE LIMA
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=e9f139d1615d1446157c3195a373f2da&param2=6479223&param3=1108453
+Documento associado ao Processo Administrativo Eletrônico Nº STTU-20231033327 em 11/08/2023 às 17:48:45 fls. 106
+Assinado eletronicamente - Decreto Nº 11.972 - utilizando usuário e senha por: STTU - 730848 - DALIANA BANDEIRA LUZ MONTEIRO SANTOS
+https://directa.natal.rn.gov.br/form.jsp?sys=DIR&action=openform&formID=464568709&form=listdoc&param1=bdc4eb32070d5d78fa917eb856040506&param2=6479251&param3=1108453
+Documento assinado em 11/08/2023 às 17:56:28 fls. 106
