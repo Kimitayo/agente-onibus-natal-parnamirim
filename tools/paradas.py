@@ -1,4 +1,28 @@
 
+"""
+OBJETIVO: Ferramenta de busca de paradas de ônibus próximas.
+
+Consulta o CSV do GeoNatal, que contém as coordenadas geográficas
+das paradas de ônibus de Natal/RN.
+
+A partir da latitude e longitude informadas pelo usuário,
+calcula a distância geográfica até cada parada utilizando
+a fórmula de Haversine.
+
+Retorna as paradas mais próximas, ordenadas por distância,
+incluindo nome, identificador, coordenadas, distância em metros
+e fonte dos dados.
+
+Esta ferramenta será integrada ao servidor MCP próprio do
+projeto, permitindo que o agente identifique paradas próximas
+à localização do usuário.
+
+Observação: as distâncias são calculadas em linha reta,
+não considerando o percurso real pelas ruas.
+"""
+
+
+
 import argparse
 import csv
 import json
@@ -7,7 +31,7 @@ from pathlib import Path
 
 
 # Pasta principal do projeto
-RAIZ_PROJETO = Path(__file__).resolve().parents[3]
+RAIZ_PROJETO = Path(__file__).resolve().parents[1]
 
 # Arquivo com as paradas do GeoNatal
 CAMINHO_CSV = (

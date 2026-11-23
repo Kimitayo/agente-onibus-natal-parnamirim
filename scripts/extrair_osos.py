@@ -321,12 +321,51 @@ def extrair_itinerarios_pagina(pagina, numero_pagina):
         if normalizar_busca(p["text"]) in {"PONTOS", "PAVIMENTACAO"}
         and p["top"] > topo_inicio
     ]
+
+
+
     topo_fim = min(limites) if limites else pagina.height - 80
+
+    # Localiza observações administrativas que aparecem
+    # entre o itinerário e a seção seguinte do documento.
+    palavras_candidatas = [
+        p for p in palavras
+        if topo_inicio <= p["top"] < topo_fim
+    ]
+
+    linhas_candidatas = agrupar_palavras_por_linha(
+        palavras_candidatas,
+        tolerancia=2.5
+    )
+
+    marcadores_observacao = (
+        "A OSO OBEDECE",
+        "EM FUNCAO DA GRATUIDADE",
+    )
+
+    for linha_candidata in linhas_candidatas:
+        texto_linha = normalizar_busca(
+            texto_das_palavras(linha_candidata["palavras"]) or ""
+        )
+
+        if any(
+            marcador in texto_linha
+            for marcador in marcadores_observacao
+        ):
+            topo_fim = min(
+                topo_fim,
+                min(p["top"] for p in linha_candidata["palavras"])
+            )
+            break
 
     palavras_rota = [
         p for p in palavras
         if topo_inicio <= p["top"] < topo_fim
     ]
+
+    
+
+    
     linhas = agrupar_palavras_por_linha(palavras_rota, tolerancia=2.5)
 
     registros = []
