@@ -1,2 +1,25 @@
-.agente-onibus
+# Ambientes e segredos
+.agente-onibus/
 .env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Dados gerados localmente
+/dados/rag/chroma_osos/
+/dados/memoria/
+*.sqlite
+*.sqlite3
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

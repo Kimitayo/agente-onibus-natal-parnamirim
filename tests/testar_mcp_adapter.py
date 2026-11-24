@@ -1,65 +1,47 @@
-
-"""
-Integra os servidores MCP próprio e comunitário
-utilizando o MCPAdapter do LangChain.
-
-Servidor próprio:
-- Paradas
-- Linhas
-- Horários
-- Itinerários
-
-Servidor comunitário:
-- Horário atual
-- Conversão de horário
-- Tempo decorrido
-"""
+"""Confirma que o MCPAdapter integra os dois servidores e encontra 7 tools."""
 
 import asyncio
 import sys
+from pathlib import Path
 
 from langchain.mcp import MCPAdapter
 
+RAIZ_PROJETO = Path(__file__).resolve().parents[1]
 
-# Configuração dos dois servidores MCP.
-servers = {
+SERVIDORES = {
     "transporte": {
         "command": sys.executable,
-        "args": [
-            "-m",
-            "server_mcp.servidor",
-        ],
+        "args": ["-m", "server_mcp.servidor"],
+        "cwd": str(RAIZ_PROJETO),
     },
-
     "time": {
         "command": sys.executable,
-        "args": [
-            "-m",
-            "mcp_server_time",
-            "--local-timezone=America/Fortaleza",
-        ],
+        "args": ["-m", "mcp_server_time", "--local-timezone=America/Fortaleza"],
+        "cwd": str(RAIZ_PROJETO),
     },
 }
 
 
-async def main():
-
-    # Reúne os servidores em um único adaptador.
-    adapter = MCPAdapter({
-        "mcpServers": servers
-    })
-
+async def main() -> None:
+    adapter = MCPAdapter({"mcpServers": SERVIDORES})
     async with adapter:
-
-        # Descobre as ferramentas dos dois servidores.
         ferramentas = await adapter.list_tools()
+        nomes = sorted(ferramenta.name for ferramenta in ferramentas)
+        print("FERRAMENTAS MCP INTEGRADAS:")
+        for nome in nomes:
+            print("-", nome)
+        print("TOTAL:", len(nomes))
 
-        print("\nFERRAMENTAS INTEGRADAS:")
+        nomes_proprios = ("buscar_paradas", "buscar_linhas", "buscar_horarios", "buscar_itinerarios")
+        nomes_comunidade = ("get_current_time", "convert_time", "get_time_ago")
+        transporte = [nome for nome in nomes if any(nome.endswith(sufixo) for sufixo in nomes_proprios)]
+        comunidade = [nome for nome in nomes if any(sufixo in nome for sufixo in nomes_comunidade)]
+        if len(transporte) != 4 or len(comunidade) != 3 or len(nomes) != 7:
+            raise RuntimeError(
+                f"Esperadas 4 tools próprias e 3 comunitárias; encontradas {len(transporte)} e {len(comunidade)}."
+            )
 
-        for ferramenta in ferramentas:
-            print("-", ferramenta.name)
-
-        print("\nTOTAL DE FERRAMENTAS:", len(ferramentas))
+    print("INTEGRAÇÃO MCP: APROVADA (7/7)")
 
 
 if __name__ == "__main__":
