@@ -1,0 +1,83 @@
+﻿fonte,data_referencia,linha,sentido,ordem,id_parada,nome_parada,latitude,longitude,chegada_segundos,chegada_programada,saida_segundos,saida_programada,estado_tempo_real,tem_tempo_real,parada_cancelada
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,0,116924d7777ee1b3,Av. Duque de Caxias - Terminal das Rocas,-5.77227746,-35.2033203,76200,21:10:00,76200,21:10:00,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,1,13b924d7777ee1b3,"Av. Duque de Caxias, 221",-5.7746639,-35.20411749,76328,21:12:08,76328,21:12:08,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,2,610602d0000f55ac,Praça Augusto Severo,-5.7793347,-35.20575196,76452,21:14:12,76452,21:14:12,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,3,6c817412d00f55ac,"Rua Câmara Cascudo, 390",-5.78176665,-35.20654997,76513,21:15:13,76513,21:15:13,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,4,6c84d77ee1bf55ac,"Rua Padre João Manoel, 48",-5.78405502,-35.20888302,76587,21:16:27,76587,21:16:27,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,5,6e556002d00f55ac,"Rua Padre João Manoel, 630",-5.78618111,-35.20991991,76639,21:17:19,76639,21:17:19,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,6,689175a2d00f55ac,"Rua Padre Pinto, 232",-5.7886,-35.21020004,76694,21:18:14,76694,21:18:14,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,7,6bf21ee3600f55ac,Rua Mermoz - Viaduto do Baldo,-5.79090498,-35.2092819,76755,21:19:15,76755,21:19:15,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,8,6893a6c3641f55ac,"Rua Fonseca e Silva, 365 - Cemitério do Alecrim",-5.79312528,-35.21417339,76878,21:21:18,76878,21:21:18,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,9,6c80c772d00f55ac,"Rua Amaro Barreto, 1274 - Parada Luiz Dutra",-5.79450002,-35.21720001,76952,21:22:32,76952,21:22:32,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,10,61060773600f55ac,"Av. Pres. Bandeira, 542",-5.79781548,-35.21729796,77049,21:24:09,77049,21:24:09,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,11,69217773600f55ac,"Av. Pres. Bandeira, 638",-5.79985002,-35.21636669,77099,21:24:59,77099,21:24:59,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,12,6108e773600f55ac,"Av. Pres. Bandeira, 846",-5.80314998,-35.21476666,77181,21:26:21,77181,21:26:21,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,13,6107b6c3600f55ac,"Av. Pres. Bandeira, 978",-5.80601667,-35.21336664,77252,21:27:32,77252,21:27:32,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,14,6fe176c3600f55ac,"Av. Pres. Bandeira, 1260",-5.80861665,-35.21205001,77317,21:28:37,77317,21:28:37,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,15,6107b2d2d00f55ac,Romualdo Galvão N/S,-5.81158334,-35.2084167,77437,21:30:37,77437,21:30:37,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,16,6e58e2d2d00f55ac,"Av. Bernardo Vieira, 4000 - Midway Mall",-5.81261666,-35.20586668,77498,21:31:38,77498,21:31:38,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,17,6bf17362d00f55ac,"Av. Sen. Salgado Filho, 1680",-5.81790003,-35.20708331,77634,21:33:54,77634,21:33:54,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,18,60b4d1b2d00f55ac,"Av. Sen. Salgado Filho, 1788",-5.82058333,-35.20800004,77697,21:34:57,77697,21:34:57,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,19,6fe3a1b2d00f55ac,"Av. Sen. Salgado Filho, 2070",-5.82376669,-35.20923335,77773,21:36:13,77773,21:36:13,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,20,6108e1b2d00f55ac,Av. Sen. Salgado Filho - Centro Administrativo do Governo do Estado do RN,-5.83144037,-35.21220398,77956,21:39:16,77956,21:39:16,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,21,6d395002d00f55ac,"Av. Sen. Salgado Filho, 3450",-5.83443333,-35.21243331,78023,21:40:23,78023,21:40:23,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,22,6c856413600f55ac,"Av. Sen. Salgado Filho, 2630 - Natal Shopping",-5.84141663,-35.2105333,78184,21:43:04,78184,21:43:04,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,23,6fe21362d1b2d77c,"Av. Eng. Roberto Freire, 370",-5.85102663,-35.20509708,78453,21:47:33,78453,21:47:33,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,24,6bf21362d1b2d77c,"Av. Eng. Roberto Freire, 958",-5.85429816,-35.20085697,78572,21:49:32,78572,21:49:32,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,25,6890c361b1b2d77c,"Av. Eng. Roberto Freire, 1512",-5.85689893,-35.19754494,78665,21:51:05,78665,21:51:05,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,26,6bf0c361b1b2d77c,"Av. Eng. Roberto Freire, 1196",-5.85808683,-35.19602829,78708,21:51:48,78708,21:51:48,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,27,6e50c361b1b2d77c,"Av. Eng. Roberto Freire, 1700",-5.85987941,-35.19372768,78773,21:52:53,78773,21:52:53,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,28,6c80c361b1b2d77c,"Av. Eng. Roberto Freire, 1414",-5.861022,-35.19226773,78814,21:53:34,78814,21:53:34,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,29,60b17361b1b2d77c,"Av. Eng. Roberto Freire, 2700",-5.86444286,-35.18787182,78938,21:55:38,78938,21:55:38,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,30,69217361b1b2d77c,Av. Eng. Roberto Freire - Praia Shopping,-5.8659541,-35.18509934,79008,21:56:48,79008,21:56:48,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,31,6d395361b1b2d77c,"Av. Praia de Tibau, 2090",-5.87085837,-35.18223254,79157,21:59:17,79157,21:59:17,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,32,6e517361b1b2d77c,"Rua Praia de Areia Branca, 8904",-5.87054963,-35.18438802,79226,22:00:26,79226,22:00:26,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,33,6fe17361b1b2d77c,"Avenida Praia de Genipabú, 2200",-5.86914508,-35.18704533,79305,22:01:45,79305,22:01:45,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,34,6bf17361b1b2d77c,"Avenida Praia de Genipabú, 247",-5.87073529,-35.18825768,79349,22:02:29,79349,22:02:29,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,35,6c895361b1b2d77c,"Rua Praia da Pipa, 2218",-5.87246457,-35.18660502,79405,22:03:25,79405,22:03:25,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,36,6fe216c2d002d77c,"Rua Praia de Cotovelo, 2230",-5.87518492,-35.18435436,79495,22:04:55,79495,22:04:55,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,37,6a43a361b1b2d77c,"Avenida Praia de Búzios, 9034",-5.87606797,-35.18306867,79534,22:05:34,79534,22:05:34,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,38,6bf3a361b1b2d77c,"Avenida Praia de Búzios, 9128",-5.87786572,-35.18100911,79595,22:06:35,79595,22:06:35,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,39,6c83a361b1b2d77c,"Avenida Estrela do Mar, 2218",-5.87960282,-35.17897236,79654,22:07:34,79654,22:07:34,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,40,61021361b1b2d77c,"Rua Vereador Manoel Sátiro, 350",-5.88046267,-35.17463568,79801,22:10:01,79801,22:10:01,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,41,60b21361b1b2d77c,"Rua Ver. Manoel Coringa de Lemos, 200 - Praça do Cruzeiro",-5.88405655,-35.17190943,79903,22:11:43,79903,22:11:43,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,42,68921361b1b2d77c,"Rua Ver. Manoel Coringa de Lemos, 451",-5.88529208,-35.16887787,79976,22:12:56,79976,22:12:56,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,43,69221361b1b2d77c,"Rua Ver. Manoel Coringa de Lemos, 199 - Praça do Cruzeiro",-5.88396817,-35.17184899,80069,22:14:29,80069,22:14:29,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,44,6d33a361b1b2d77c,"Av. Eng. Roberto Freire, 675",-5.8795332,-35.17520767,80195,22:16:35,80195,22:16:35,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,45,6bf0c772d002d77c,"Av. Eng. Roberto Freire, 4495",-5.87610787,-35.1776489,80289,22:18:09,80289,22:18:09,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,46,6a40c772d002d77c,"Av. Eng. Roberto Freire, 4085",-5.87304101,-35.17985872,80373,22:19:33,80373,22:19:33,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,47,6a417361b1b2d77c,Av. Eng. Roberto Freire,-5.86935288,-35.18170452,80465,22:21:05,80465,22:21:05,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,48,68917361b1b2d77c,Av. Eng. Roberto Freire - Praia Shopping,-5.86541652,-35.1854803,80592,22:23:12,80592,22:23:12,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,49,61017361b1b2d77c,"Av. Eng. Roberto Freire, 2631",-5.86331198,-35.18888941,80681,22:24:41,80681,22:24:41,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,50,6d30c361b1b2d77c,"Av. Eng. Roberto Freire, 2281",-5.86132792,-35.19143384,80753,22:25:53,80753,22:25:53,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,51,6fe0c361b1b2d77c,"Av. Eng. Roberto Freire, 1197",-5.85793679,-35.19577816,80875,22:27:55,80875,22:27:55,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,52,6a40c361b1b2d77c,"Av. Eng. Roberto Freire, 1511",-5.85664325,-35.1974367,80922,22:28:42,80922,22:28:42,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,53,6920c361b1b2d77c,"Av. Eng. Roberto Freire, 1435",-5.85502469,-35.19951526,80980,22:29:40,80980,22:29:40,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,54,60b0c361b1b2d77c,"Av. Eng. Roberto Freire, 701",-5.85299689,-35.20217098,81054,22:30:54,81054,22:30:54,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,55,6100c361b1b2d77c,"Av. Eng. Roberto Freire, 501",-5.85140372,-35.20420818,81111,22:31:51,81111,22:31:51,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,56,6897b1b3600f55ac,"Rua Leôncio Etelvino de Medeiros, 2835",-5.84873336,-35.20693336,81198,22:33:18,81198,22:33:18,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,57,6bf8e1b3600f55ac,"Av. Senador Salgado Filho, 3901",-5.84451668,-35.20856665,81299,22:34:59,81299,22:34:59,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,58,6e50c772d002d77c,"Av. Sen. Salgado Filho, 3701 - Parada Verbenas",-5.84242313,-35.20954031,81350,22:35:50,81350,22:35:50,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,59,61017003600f55ac,Av. Sen. Salgado Filho - Praça de Potilândia,-5.83186663,-35.21179997,81596,22:39:56,81596,22:39:56,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,60,6fe56773600f55ac,"Av. Sen. Salgado Filho, 2077",-5.82413332,-35.20915003,81779,22:42:59,81779,22:42:59,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,61,6bf21773600f55ac,"Av. Sen. Salgado Filho, 1773",-5.82048333,-35.20771665,81866,22:44:26,81866,22:44:26,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,62,6e50c773600f55ac,"Av. Sen. Salgado Filho, 1601",-5.81573331,-35.20608335,81978,22:46:18,81978,22:46:18,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,63,6bf4d6c3600f55ac,"Av. Antônio Basílio, 3974",-5.81728959,-35.20129849,82097,22:48:17,82097,22:48:17,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,64,6e5606c3600f55ac,"Av. Xavier da Silveira, 399",-5.81580729,-35.19983984,82158,22:49:18,82158,22:49:18,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,65,6c8211beef5ee77c,"Av. Bernardo Vieira, 4535",-5.81439829,-35.20027414,82202,22:50:02,82202,22:50:02,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,66,6d3602d1b00f55ac,"Av. Bernardo Vieira, 4165 - IFRN campus Central",-5.81340274,-35.20306846,82268,22:51:08,82268,22:51:08,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,67,6d34df53600f55ac,"Av. Bernardo Vieira, 3921 - Midway Mall",-5.81214937,-35.20648006,82349,22:52:29,82349,22:52:29,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,68,6fe0cf53600f55ac,Prudente de Morais S/N,-5.81115,-35.20949998,82419,22:53:39,82419,22:53:39,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,69,6bf566c1b00f55ac,"Av. Presidente Bandeira, 2265",-5.8098617,-35.21120997,82470,22:54:30,82470,22:54:30,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,70,60b606c1b00f55ac,"Av. Pres. Bandeira, 1161",-5.80714999,-35.21256667,82538,22:55:38,82538,22:55:38,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,71,6e5176c1b00f55ac,"Av. Pres. Bandeira, 907",-5.80396671,-35.21411665,82617,22:56:57,82617,22:56:57,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,72,6fe7bf51b00f55ac,"Av. Pres. Bandeira, 1065",-5.80189998,-35.21509523,82668,22:57:48,82668,22:57:48,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,73,68921f51b00f55ac,"Av. Pres. Bandeira, 683",-5.79949999,-35.21629997,82728,22:58:48,82728,22:58:48,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,74,61017f51b00f55ac,"Av. Pres. Bandeira, 489",-5.79718332,-35.21753336,82786,22:59:46,82786,22:59:46,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,75,6fe602d2d00f55ac,"Av. Cel. Estevam, 193",-5.79393332,-35.2136833,82902,23:01:42,82902,23:01:42,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,76,6898e2d2d00f55ac,"Rua Coronel José Bernardo, 1351 - Viaduto do Baldo",-5.79153333,-35.20959998,83008,23:03:28,83008,23:03:28,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,77,6c821362d00f55ac,"Av. Rio Branco, 673 - Parada João Pessoa",-5.7868667,-35.20713335,83126,23:05:26,83126,23:05:26,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,78,6e521412d00f55ac,"Av. Rio Branco, 479 - Parada Winston Churchill",-5.78401669,-35.20583332,83196,23:06:36,83196,23:06:36,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,79,6c84d2d3600f55ac,"Av. Rio Branco, 303",-5.78015937,-35.20392853,83292,23:08:12,83292,23:08:12,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,80,10d924d7777ee1b3,"Av. Duque de Caxias, 124",-5.77650312,-35.20427513,83385,23:09:45,83385,23:09:45,SCHEDULED,False,False
+BUS2,2026-11-22,L-54,Rocas / Ponta Negra via Alecrim,81,116924d7777ee1b3,Av. Duque de Caxias - Terminal das Rocas,-5.77227746,-35.2033203,83481,23:11:21,83481,23:11:21,SCHEDULED,False,False
